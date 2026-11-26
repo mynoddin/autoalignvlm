@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Auto Align-VLM: experiment record (v3 run)
 
 This repository holds the code and the complete executed record of the Auto Align-VLM experiments on
@@ -161,6 +160,3 @@ repository, use `CITATION.cff`.
 
 Contact: Md Mynoddin, Department of Computer Science and Engineering, Rangamati Science and
 Technology University, Bangladesh. Email: mynoddin at rmstu .ac .bd  or mmynoddin at gmail com
-=======
-Codes and relevant sources will be updated soon ... 
->>>>>>> cd8a7977012baf786b7939d953a2ddb25037785d
