@@ -1,0 +1,48 @@
+Auto Align-VLM: code and experiment record
+Copyright (c) 2026 Md Mynoddin, Monoara Akter, Noor Sayed and G. M. Sakhawat Hossain.
+All rights reserved.
+
+TEMPORARY LICENCE FOR PEER REVIEW AND VERIFICATION
+
+This repository ("the Material") contains source code, notebooks, configuration
+files, trained model adapters, generated model outputs, logs, figures and tables.
+It accompanies a manuscript that is currently under peer review. Until that
+manuscript is published, the Material is made available only under the terms
+below.
+
+1. Permitted use
+   Editors, peer reviewers and other readers may, free of charge:
+   (a) view, download and run the Material; and
+   (b) reproduce, inspect and check the reported results,
+   solely for the purpose of evaluating or verifying the manuscript.
+
+2. Restrictions
+   Without the prior written permission of the copyright holders, you may not:
+   (a) redistribute, sublicense, sell or publish the Material or any part of it;
+   (b) create or distribute derivative works based on the Material;
+   (c) use the Material, or results obtained from it, in any other publication,
+       product or service; or
+   (d) use the Material for training or fine-tuning any machine-learning model.
+
+3. Third-party components
+   Models, datasets and software by third parties that the Material refers to or
+   downloads (including LLaVA-1.5, Grounding DINO, Sentence-Transformers, MS-COCO,
+   POPE and MME) remain subject to their own licences. This licence grants no
+   rights in them.
+
+4. Change of licence
+   The copyright holders intend to release the Material under an open licence
+   when the manuscript is published. The licence then in force will be stated in
+   this file. Copies obtained before that date stay subject to this licence.
+
+5. No warranty
+   THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE MATERIAL OR ITS USE.
+
+Requests for permission: Md Mynoddin, Department of Computer Science and
+Engineering, Rangamati Science and Technology University, Bangladesh
+(mynoddin @ rmstu . ac . bd or mmynoddin at gmail com).

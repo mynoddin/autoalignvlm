@@ -1,0 +1,20 @@
+# Versions used for the v3 run (Google Colab, NVIDIA A100-SXM4-80GB, Python 3.13).
+# Install a CUDA-enabled PyTorch first (the run used torch 2.14.1 with CUDA 13.0);
+# these pins do not replace it.
+transformers==4.57.6
+tokenizers>=0.22,<=0.23.0
+accelerate==1.14.0
+peft==0.19.1
+trl==0.29.1
+datasets==3.6.0
+huggingface-hub==0.36.2
+sentence-transformers==3.4.1
+spacy>=3.8,<3.9
+nltk>=3.9,<3.10
+numpy
+scipy
+matplotlib>=3.10
+pillow
+
+# After installing, download the spaCy English model used by the caption parser:
+#   python -m spacy download en_core_web_sm
