@@ -1,0 +1,85 @@
+{"stage": "data_preparation", "seconds": 160.3, "status": "ok", "peak_gpu_gb": 0.02, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T17:50:28"}
+{"stage": "model_download", "seconds": 0.0, "status": "ok", "peak_gpu_gb": 0.02, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T17:50:28"}
+{"stage": "eval:base:chair", "seconds": 209.0, "status": "ok", "peak_gpu_gb": 19.27, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T17:54:03"}
+{"stage": "eval:base:pope_random", "seconds": 182.9, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T17:57:09"}
+{"stage": "eval:base:pope_popular", "seconds": 183.1, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T18:00:12"}
+{"stage": "eval:base:pope_adversarial", "seconds": 183.2, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T18:03:15"}
+{"stage": "eval:base:mme", "seconds": 248.6, "status": "ok", "peak_gpu_gb": 25.22, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T18:07:24"}
+{"stage": "sampling_r1", "seconds": 5126.2, "status": "ok", "peak_gpu_gb": 26.42, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T19:32:55", "n_images": 5000, "k": 4}
+{"stage": "detection_cc_r1", "seconds": 888.1, "status": "ok", "peak_gpu_gb": 33.38, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T19:47:44"}
+{"stage": "detection_coco80_r1", "seconds": 884.2, "status": "ok", "peak_gpu_gb": 35.07, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T20:02:28"}
+{"stage": "scoring_r1", "seconds": 117.9, "status": "ok", "peak_gpu_gb": 13.4, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T20:04:26"}
+{"stage": "train:har_main_s42", "seconds": 5377.1, "status": "ok", "peak_gpu_gb": 42.52, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T21:34:11", "n_pairs": 4516, "seed": 42}
+{"stage": "eval:har_main_s42:chair", "seconds": 199.7, "status": "ok", "peak_gpu_gb": 19.35, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T21:37:39"}
+{"stage": "eval:har_main_s42:pope_random", "seconds": 180.9, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T21:40:41"}
+{"stage": "eval:har_main_s42:pope_popular", "seconds": 181.0, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T21:43:43"}
+{"stage": "eval:har_main_s42:pope_adversarial", "seconds": 181.1, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T21:46:44"}
+{"stage": "eval:har_main_s42:mme", "seconds": 243.5, "status": "ok", "peak_gpu_gb": 25.22, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T21:50:47"}
+{"stage": "train:har_main_s123", "seconds": 5376.2, "status": "ok", "peak_gpu_gb": 42.54, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T23:20:30", "n_pairs": 4516, "seed": 123}
+{"stage": "eval:har_main_s123:chair", "seconds": 197.5, "status": "ok", "peak_gpu_gb": 19.3, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T23:23:56"}
+{"stage": "eval:har_main_s123:pope_random", "seconds": 181.6, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T23:26:59"}
+{"stage": "eval:har_main_s123:pope_popular", "seconds": 181.1, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T23:30:00"}
+{"stage": "eval:har_main_s123:pope_adversarial", "seconds": 181.1, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T23:33:01"}
+{"stage": "eval:har_main_s123:mme", "seconds": 244.0, "status": "ok", "peak_gpu_gb": 25.22, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-11T23:37:05"}
+{"stage": "train:har_main_s456", "seconds": 5380.4, "status": "ok", "peak_gpu_gb": 42.52, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T01:06:53", "n_pairs": 4516, "seed": 456}
+{"stage": "eval:har_main_s456:chair", "seconds": 200.2, "status": "ok", "peak_gpu_gb": 19.35, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T01:10:21"}
+{"stage": "eval:har_main_s456:pope_random", "seconds": 180.9, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T01:13:24"}
+{"stage": "eval:har_main_s456:pope_popular", "seconds": 181.0, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T01:16:25"}
+{"stage": "eval:har_main_s456:pope_adversarial", "seconds": 181.0, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T01:19:26"}
+{"stage": "eval:har_main_s456:mme", "seconds": 243.7, "status": "ok", "peak_gpu_gb": 25.22, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T01:23:30"}
+{"stage": "train:ctrl_length_s42", "seconds": 5428.3, "status": "ok", "peak_gpu_gb": 42.54, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T02:54:05", "n_pairs": 4516, "seed": 42}
+{"stage": "eval:ctrl_length_s42:chair", "seconds": 106.2, "status": "ok", "peak_gpu_gb": 18.78, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T02:56:00"}
+{"stage": "eval:ctrl_length_s42:pope_random", "seconds": 181.1, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T02:59:02"}
+{"stage": "eval:ctrl_length_s42:pope_popular", "seconds": 181.4, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T03:02:03"}
+{"stage": "eval:ctrl_length_s42:pope_adversarial", "seconds": 181.5, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T03:05:05"}
+{"stage": "train:abl_coco80_s42", "seconds": 5039.5, "status": "ok", "peak_gpu_gb": 42.52, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T04:29:11", "n_pairs": 4222, "seed": 42}
+{"stage": "eval:abl_coco80_s42:chair", "seconds": 204.2, "status": "ok", "peak_gpu_gb": 19.53, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T04:32:43"}
+{"stage": "eval:abl_coco80_s42:pope_random", "seconds": 180.8, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T04:35:46"}
+{"stage": "eval:abl_coco80_s42:pope_popular", "seconds": 180.7, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T04:38:47"}
+{"stage": "eval:abl_coco80_s42:pope_adversarial", "seconds": 180.8, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T04:41:47"}
+{"stage": "train:abl_h_only_s42", "seconds": 5255.9, "status": "ok", "peak_gpu_gb": 42.14, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T06:09:30", "n_pairs": 4408, "seed": 42}
+{"stage": "eval:abl_h_only_s42:chair", "seconds": 195.0, "status": "ok", "peak_gpu_gb": 19.47, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T06:12:54"}
+{"stage": "eval:abl_h_only_s42:pope_random", "seconds": 180.9, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T06:15:56"}
+{"stage": "eval:abl_h_only_s42:pope_popular", "seconds": 181.0, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T06:18:57"}
+{"stage": "eval:abl_h_only_s42:pope_adversarial", "seconds": 181.0, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T06:21:58"}
+{"stage": "train:ctrl_random_s42", "seconds": 5383.6, "status": "ok", "peak_gpu_gb": 42.14, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T07:51:49", "n_pairs": 4516, "seed": 42}
+{"stage": "eval:ctrl_random_s42:chair", "seconds": 209.7, "status": "ok", "peak_gpu_gb": 19.33, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T07:55:26"}
+{"stage": "eval:ctrl_random_s42:pope_random", "seconds": 180.8, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T07:58:29"}
+{"stage": "eval:ctrl_random_s42:pope_popular", "seconds": 180.8, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T08:01:30"}
+{"stage": "eval:ctrl_random_s42:pope_adversarial", "seconds": 180.9, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T08:04:31"}
+{"stage": "train:lam1_s42", "seconds": 3981.4, "status": "ok", "peak_gpu_gb": 42.14, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T09:10:59", "n_pairs": 3345, "seed": 42}
+{"stage": "eval:lam1_s42:chair", "seconds": 201.9, "status": "ok", "peak_gpu_gb": 19.29, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T09:14:29"}
+{"stage": "eval:lam1_s42:pope_random", "seconds": 180.9, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T09:17:31"}
+{"stage": "eval:lam1_s42:pope_popular", "seconds": 180.8, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T09:20:32"}
+{"stage": "eval:lam1_s42:pope_adversarial", "seconds": 180.7, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T09:23:33"}
+{"stage": "train:lam4_s42", "seconds": 5822.9, "status": "ok", "peak_gpu_gb": 42.52, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T11:00:43", "n_pairs": 4887, "seed": 42}
+{"stage": "eval:lam4_s42:chair", "seconds": 197.0, "status": "ok", "peak_gpu_gb": 19.36, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T11:04:08"}
+{"stage": "eval:lam4_s42:pope_random", "seconds": 181.2, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T11:07:11"}
+{"stage": "eval:lam4_s42:pope_popular", "seconds": 181.2, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T11:10:12"}
+{"stage": "eval:lam4_s42:pope_adversarial", "seconds": 181.2, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T11:13:13"}
+{"stage": "eval:base_vcd:chair", "seconds": 400.1, "status": "ok", "peak_gpu_gb": 25.55, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T11:19:59"}
+{"stage": "eval:base_vcd:pope_random", "seconds": 331.0, "status": "ok", "peak_gpu_gb": 35.58, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T11:25:32"}
+{"stage": "eval:base_vcd:pope_popular", "seconds": 331.1, "status": "ok", "peak_gpu_gb": 35.58, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T11:31:03"}
+{"stage": "eval:base_vcd:pope_adversarial", "seconds": 330.7, "status": "ok", "peak_gpu_gb": 35.58, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T11:36:33"}
+{"stage": "eval:ours_vcd:chair", "seconds": 377.1, "status": "ok", "peak_gpu_gb": 25.28, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T11:42:57"}
+{"stage": "eval:ours_vcd:pope_random", "seconds": 331.1, "status": "ok", "peak_gpu_gb": 35.58, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T11:48:30"}
+{"stage": "eval:ours_vcd:pope_popular", "seconds": 331.5, "status": "ok", "peak_gpu_gb": 35.58, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T11:54:01"}
+{"stage": "eval:ours_vcd:pope_adversarial", "seconds": 331.6, "status": "ok", "peak_gpu_gb": 35.58, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T11:59:33"}
+{"stage": "sampling_r2", "seconds": 4925.8, "status": "ok", "peak_gpu_gb": 30.76, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T13:23:10", "n_images": 5000, "k": 4}
+{"stage": "detection_cc_r2", "seconds": 853.3, "status": "ok", "peak_gpu_gb": 33.33, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T13:37:24"}
+{"stage": "scoring_r2", "seconds": 111.9, "status": "ok", "peak_gpu_gb": 13.4, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T13:39:16"}
+{"stage": "train:iter2_s42", "seconds": 5314.1, "status": "ok", "peak_gpu_gb": 42.45, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T15:07:57", "n_pairs": 4478, "seed": 42}
+{"stage": "eval:iter2_s42:chair", "seconds": 196.5, "status": "ok", "peak_gpu_gb": 19.3, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T15:11:23"}
+{"stage": "eval:iter2_s42:pope_random", "seconds": 181.4, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T15:14:26"}
+{"stage": "eval:iter2_s42:pope_popular", "seconds": 181.6, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T15:17:28"}
+{"stage": "eval:iter2_s42:pope_adversarial", "seconds": 181.6, "status": "ok", "peak_gpu_gb": 24.68, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T15:20:29"}
+{"stage": "eval:iter2_s42:mme", "seconds": 245.1, "status": "ok", "peak_gpu_gb": 25.22, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T15:24:35"}
+{"stage": "reward_validity_detection", "seconds": 77.5, "status": "ok", "peak_gpu_gb": 18.58, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T15:25:53"}
+{"stage": "data_preparation", "seconds": 54.8, "status": "ok", "peak_gpu_gb": 0.0, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T23:24:09"}
+{"stage": "data_preparation", "seconds": 4.2, "status": "ok", "peak_gpu_gb": 0.0, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T23:24:33"}
+{"stage": "model_download", "seconds": 43.4, "status": "ok", "peak_gpu_gb": 0.0, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T23:25:17"}
+{"stage": "detection_cc_r1", "seconds": 1.6, "status": "ok", "peak_gpu_gb": 0.0, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T23:25:29"}
+{"stage": "detection_coco80_r1", "seconds": 2.1, "status": "ok", "peak_gpu_gb": 0.0, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T23:25:31"}
+{"stage": "scoring_r1", "seconds": 1.9, "status": "ok", "peak_gpu_gb": 0.0, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T23:25:33"}
+{"stage": "detection_cc_r2", "seconds": 1.5, "status": "ok", "peak_gpu_gb": 0.0, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T23:26:44"}
+{"stage": "scoring_r2", "seconds": 2.1, "status": "ok", "peak_gpu_gb": 0.0, "gpu": "NVIDIA A100-SXM4-80GB", "time": "2026-11-12T23:26:46"}

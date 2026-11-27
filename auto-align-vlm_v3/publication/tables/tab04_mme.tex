@@ -1,0 +1,15 @@
+\begin{table}[t]
+\centering
+\small
+\caption{MME scores (acc + acc+). Hallucination subset = existence, count, position, colour (max 800); perception max 2000; cognition max 800.}
+\label{tab:mme}
+\begin{tabular}{lccc}
+\toprule
+Method & Halluc. subset & Perception & Cognition \\
+\midrule
+LLaVA-1.5-7B & 610.0 & 1482.4 & 318.2 \\
+Auto Align-VLM & 615.0 $\pm$ 0.0 & 1483.8 $\pm$ 2.8 & 320.8 $\pm$ 8.6 \\
+Auto Align-VLM (round 2) & 615.0 & 1482.5 & 317.5 \\
+\bottomrule
+\end{tabular}
+\end{table}

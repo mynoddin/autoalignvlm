@@ -1,0 +1,26 @@
+\begin{table}[t]
+\centering
+\small
+\caption{Measured wall-clock cost on one NVIDIA A100-SXM4-80GB.}
+\label{tab:compute}
+\begin{tabular}{lcc}
+\toprule
+Stage & GPU hours & Peak memory (GB) \\
+\midrule
+DPO training & 14.54 & 42.5 \\
+Evaluation (all policies) & 3.36 & 35.6 \\
+sampling r1 & 1.42 & 26.4 \\
+sampling r2 & 1.37 & 30.8 \\
+detection cc r1 & 0.25 & 33.4 \\
+detection coco80 r1 & 0.25 & 35.1 \\
+detection cc r2 & 0.24 & 33.3 \\
+data preparation & 0.06 & 0.0 \\
+scoring r1 & 0.03 & 13.4 \\
+scoring r2 & 0.03 & 13.4 \\
+reward validity detection & 0.02 & 18.6 \\
+model download & 0.01 & 0.0 \\
+\midrule
+Total & 21.58 &  \\
+\bottomrule
+\end{tabular}
+\end{table}

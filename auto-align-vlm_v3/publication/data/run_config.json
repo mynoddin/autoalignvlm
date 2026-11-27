@@ -1,0 +1,92 @@
+{
+ "config": {
+  "data_seed": 2024,
+  "n_train": 5000,
+  "n_chair": 500,
+  "pope_settings": [
+   "random",
+   "popular",
+   "adversarial"
+  ],
+  "pope_limit": null,
+  "run_mme": true,
+  "mme_limit": null,
+  "caption_prompt": "Please describe this image in detail.",
+  "short_answer_suffix": "Answer the question using a single word or phrase.",
+  "max_new_tokens_caption": 512,
+  "require_finished": true,
+  "max_new_tokens_short": 4,
+  "sampling": {
+   "k": 4,
+   "temperature": 0.9,
+   "top_p": 0.95
+  },
+  "batch_caption": 16,
+  "batch_sample": 8,
+  "batch_short": 32,
+  "vlm_repo": "llava-hf/llava-1.5-7b-hf",
+  "detector_repo": "IDEA-Research/grounding-dino-tiny",
+  "matcher_repo": "sentence-transformers/all-MiniLM-L6-v2",
+  "detector": {
+   "box_threshold": 0.3,
+   "text_threshold": 0.25,
+   "keep_score": 0.35,
+   "max_phrases": 40,
+   "batch": 8
+  },
+  "har": {
+   "alpha": 1.0,
+   "lam": 2.0,
+   "tau": 0.5,
+   "min_margin": 0.25
+  },
+  "train": {
+   "lora_r": 16,
+   "lora_alpha": 32,
+   "lora_dropout": 0.05,
+   "lora_on_vision": false,
+   "lr": 1e-05,
+   "beta": 0.3,
+   "epochs": 2,
+   "per_device_bs": 2,
+   "grad_accum": 8,
+   "max_length": 1280,
+   "logging_steps": 5,
+   "save_steps": 100,
+   "warmup_ratio": 0.0
+  },
+  "seeds": [
+   42,
+   123,
+   456
+  ],
+  "vcd": {
+   "alpha": 1.0,
+   "beta": 0.1,
+   "noise_step": 500,
+   "seed": 0
+  },
+  "n_bootstrap": 10000,
+  "fig_dpi": 600,
+  "profile": "full",
+  "run_tiers": [
+   1,
+   2
+  ]
+ },
+ "env": {
+  "python": "3.13.16",
+  "torch": "2.14.1+cu130",
+  "cuda": "13.0",
+  "gpu": "NVIDIA A100-SXM4-40GB",
+  "gpu_mem_gb": 39.5,
+  "transformers": "4.57.6",
+  "peft": "0.19.1",
+  "trl": "0.29.1",
+  "datasets": "3.6.0",
+  "spacy": "3.8.18",
+  "nltk": "3.9.1"
+ },
+ "config_hash": "8553c4b43c",
+ "saved": "2026-11-19T08:54:11"
+}

@@ -1,0 +1,22 @@
+\begin{table}[t]
+\centering
+\small
+\caption{Experimental configuration.}
+\label{tab:setup}
+\begin{tabular}{lp{11cm}}
+\toprule
+Component & Setting \\
+\midrule
+Base model & LLaVA-1.5-7B (\texttt{llava-hf/llava-1.5-7b-hf}), bf16 \\
+Detector & Grounding DINO Swin-T; box/text thresholds 0.3/0.25; keep score 0.35 \\
+Entity matcher & all-MiniLM-L6-v2, cosine threshold $\tau$ = 0.5 \\
+Reward & $R=\alpha S-\lambda H$, $\alpha$ = 1.0, $\lambda$ = 2.0; min. pair margin 0.25 \\
+On-policy sampling & k = 4, T = 0.9, top-p = 0.95, max 512 tokens \\
+Training images / round & 5,000 (Karpathy train split, train2014 only) \\
+LoRA & r = 16, $\alpha$ = 32, dropout 0.05; language-model linear layers only \\
+DPO & $\beta$ = 0.3, lr = 1e-05, 2 epochs, batch 2$\times$8, linear decay \\
+Seeds & 42, 123, 456 \\
+Hardware & 1$\times$ NVIDIA A100-SXM4-80GB \\
+\bottomrule
+\end{tabular}
+\end{table}

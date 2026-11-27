@@ -1,0 +1,4 @@
+Method,Halluc. subset,Perception,Cognition
+LLaVA-1.5-7B,610.0,1482.4,318.2
+Auto Align-VLM,615.0 ± 0.0,1483.8 ± 2.8,320.8 ± 8.6
+Auto Align-VLM (round 2),615.0,1482.5,317.5

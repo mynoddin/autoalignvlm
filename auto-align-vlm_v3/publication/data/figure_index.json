@@ -1,0 +1,93 @@
+{
+ "fig01_pipeline": {
+  "files": [
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig01_pipeline.pdf",
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig01_pipeline.png"
+  ],
+  "note": ""
+ },
+ "fig02_preference_pairs": {
+  "files": [
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig02_preference_pairs.pdf",
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig02_preference_pairs.png"
+  ],
+  "note": ""
+ },
+ "fig03_training_dynamics": {
+  "files": [
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig03_training_dynamics.pdf",
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig03_training_dynamics.png"
+  ],
+  "note": ""
+ },
+ "fig04_chair_main": {
+  "files": [
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig04_chair_main.pdf",
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig04_chair_main.png"
+  ],
+  "note": ""
+ },
+ "fig05_tradeoff": {
+  "files": [
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig05_tradeoff.pdf",
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig05_tradeoff.png"
+  ],
+  "note": ""
+ },
+ "fig06_pope": {
+  "files": [
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig06_pope.pdf",
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig06_pope.png"
+  ],
+  "note": ""
+ },
+ "fig07_length_analysis": {
+  "files": [
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig07_length_analysis.pdf",
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig07_length_analysis.png"
+  ],
+  "note": ""
+ },
+ "fig08_lambda_sensitivity": {
+  "files": [
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig08_lambda_sensitivity.pdf",
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig08_lambda_sensitivity.png"
+  ],
+  "note": ""
+ },
+ "fig09_categories": {
+  "files": [
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig09_categories.pdf",
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig09_categories.png"
+  ],
+  "note": ""
+ },
+ "fig10_mme": {
+  "files": [
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig10_mme.pdf",
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig10_mme.png"
+  ],
+  "note": ""
+ },
+ "fig11_bootstrap": {
+  "files": [
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig11_bootstrap.pdf",
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig11_bootstrap.png"
+  ],
+  "note": ""
+ },
+ "fig12_reward_validity": {
+  "files": [
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig12_reward_validity.pdf",
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig12_reward_validity.png"
+  ],
+  "note": ""
+ },
+ "fig13_qualitative": {
+  "files": [
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig13_qualitative.pdf",
+   "/content/drive/MyDrive/ResearchforPub/auto-align-vlm-execution/auto-align-vlm_v3/publication/figures/fig13_qualitative.png"
+  ],
+  "note": ""
+ }
+}

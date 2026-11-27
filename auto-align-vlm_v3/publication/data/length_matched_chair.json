@@ -1,0 +1,68 @@
+{
+ "base": [
+  {
+   "bin": "≤81",
+   "n_captions_per_run": 126.0,
+   "CHAIRi": 9.9644128113879
+  },
+  {
+   "bin": "81–95",
+   "n_captions_per_run": 139.0,
+   "CHAIRi": 14.300411522633745
+  },
+  {
+   "bin": "95–105",
+   "n_captions_per_run": 112.0,
+   "CHAIRi": 17.376681614349774
+  },
+  {
+   "bin": ">105",
+   "n_captions_per_run": 123.0,
+   "CHAIRi": 20.512820512820515
+  }
+ ],
+ "har_main": [
+  {
+   "bin": "≤81",
+   "n_captions_per_run": 166.0,
+   "CHAIRi": 10.503369005152596
+  },
+  {
+   "bin": "81–95",
+   "n_captions_per_run": 146.66666666666666,
+   "CHAIRi": 16.073059360730593
+  },
+  {
+   "bin": "95–105",
+   "n_captions_per_run": 108.0,
+   "CHAIRi": 17.171717171717173
+  },
+  {
+   "bin": ">105",
+   "n_captions_per_run": 79.33333333333333,
+   "CHAIRi": 16.327314636957357
+  }
+ ],
+ "iter2": [
+  {
+   "bin": "≤81",
+   "n_captions_per_run": 208.0,
+   "CHAIRi": 8.55513307984791
+  },
+  {
+   "bin": "81–95",
+   "n_captions_per_run": 132.0,
+   "CHAIRi": 13.39031339031339
+  },
+  {
+   "bin": "95–105",
+   "n_captions_per_run": 95.0,
+   "CHAIRi": 14.53287197231834
+  },
+  {
+   "bin": ">105",
+   "n_captions_per_run": 65.0,
+   "CHAIRi": 13.963963963963964
+  }
+ ]
+}

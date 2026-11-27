@@ -1,0 +1,38 @@
+{
+ "tab01_setup": {
+  "caption": "Experimental configuration.",
+  "label": "tab:setup"
+ },
+ "tab02_chair": {
+  "caption": "Object hallucination on 500 COCO val2014 images (official CHAIR; greedy decoding, max 512 new tokens). Mean $\\pm$ SD over training seeds where applicable.",
+  "label": "tab:chair"
+ },
+ "tab03_pope": {
+  "caption": "POPE results on COCO (3{,}000 questions per setting).",
+  "label": "tab:pope"
+ },
+ "tab04_mme": {
+  "caption": "MME scores (acc + acc+). Hallucination subset = existence, count, position, colour (max 800); perception max 2000; cognition max 800.",
+  "label": "tab:mme"
+ },
+ "tab05_ablations": {
+  "caption": "Ablations and matched controls (training seed 42; identical samples, schedule and evaluation; controls use exactly the images retained by HAR).",
+  "label": "tab:ablations"
+ },
+ "tab06_significance": {
+  "caption": "Paired comparison with the base model on the same images: change with 95\\% bootstrap CI (10,000 resamples), Wilcoxon signed-rank test on per-image hallucinated mentions (raw and Holm-adjusted), exact McNemar test on CHAIR$_S$.",
+  "label": "tab:tests"
+ },
+ "tab07_pairs": {
+  "caption": "Preference-pair statistics. $H$ is always the caption-conditioned hallucination rate, so variants are comparable; the last column is the share of pairs whose preferred caption is the shorter one.",
+  "label": "tab:pairs"
+ },
+ "tab08_compute": {
+  "caption": "Measured wall-clock cost on one NVIDIA A100-SXM4-80GB.",
+  "label": "tab:compute"
+ },
+ "tab09_per_seed": {
+  "caption": "Per-seed results of the main model (supplementary).",
+  "label": "tab:seeds"
+ }
+}

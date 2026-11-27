@@ -1,0 +1,4 @@
+Run,Seed,CHAIR_S,CHAIR_I,Recall,Words,POPE F1
+har_main_s42,42,53.4,14.9,77.9,86.3,84.5
+har_main_s123,123,55.2,15.4,77.7,87.7,84.6
+har_main_s456,456,53.0,15.2,77.9,88.0,84.7
