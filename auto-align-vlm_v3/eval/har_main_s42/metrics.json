@@ -1,0 +1,130 @@
+{
+ "chair": {
+  "CHAIRs": 53.4,
+  "CHAIRi": 14.93018259935553,
+  "Recall": 77.92792792792793,
+  "avg_words": 86.258,
+  "n_captions": 500,
+  "n_object_mentions": 3724,
+  "n_hallucinated_mentions": 556,
+  "avg_tokens": 99.322,
+  "frac_finished": 1.0
+ },
+ "pope": {
+  "random": {
+   "Accuracy": 87.3,
+   "Precision": 96.82008368200837,
+   "Recall": 77.13333333333333,
+   "F1": 85.86270871985157,
+   "Yes_ratio": 39.833333333333336,
+   "n": 3000
+  },
+  "popular": {
+   "Accuracy": 86.2,
+   "Precision": 94.21824104234527,
+   "Recall": 77.13333333333333,
+   "F1": 84.8240469208211,
+   "Yes_ratio": 40.93333333333333,
+   "n": 3000
+  },
+  "adversarial": {
+   "Accuracy": 84.03333333333333,
+   "Precision": 89.48182521268369,
+   "Recall": 77.13333333333333,
+   "F1": 82.84998209810239,
+   "Yes_ratio": 43.1,
+   "n": 3000
+  }
+ },
+ "mme": {
+  "code_reasoning": {
+   "acc": 52.5,
+   "acc_plus": 15.0,
+   "score": 67.5,
+   "n": 40
+  },
+  "artwork": {
+   "acc": 72.0,
+   "acc_plus": 50.0,
+   "score": 122.0,
+   "n": 400
+  },
+  "celebrity": {
+   "acc": 78.23529411764706,
+   "acc_plus": 58.82352941176471,
+   "score": 137.05882352941177,
+   "n": 340
+  },
+  "numerical_calculation": {
+   "acc": 42.5,
+   "acc_plus": 10.0,
+   "score": 52.5,
+   "n": 40
+  },
+  "text_translation": {
+   "acc": 57.49999999999999,
+   "acc_plus": 15.0,
+   "score": 72.5,
+   "n": 40
+  },
+  "count": {
+   "acc": 81.66666666666667,
+   "acc_plus": 66.66666666666666,
+   "score": 148.33333333333331,
+   "n": 60
+  },
+  "color": {
+   "acc": 83.33333333333334,
+   "acc_plus": 70.0,
+   "score": 153.33333333333334,
+   "n": 60
+  },
+  "commonsense_reasoning": {
+   "acc": 74.28571428571429,
+   "acc_plus": 52.85714285714286,
+   "score": 127.14285714285715,
+   "n": 140
+  },
+  "position": {
+   "acc": 73.33333333333333,
+   "acc_plus": 50.0,
+   "score": 123.33333333333333,
+   "n": 60
+  },
+  "OCR": {
+   "acc": 82.5,
+   "acc_plus": 65.0,
+   "score": 147.5,
+   "n": 40
+  },
+  "landmark": {
+   "acc": 87.25,
+   "acc_plus": 75.0,
+   "score": 162.25,
+   "n": 400
+  },
+  "scene": {
+   "acc": 84.75,
+   "acc_plus": 72.0,
+   "score": 156.75,
+   "n": 400
+  },
+  "existence": {
+   "acc": 96.66666666666667,
+   "acc_plus": 93.33333333333333,
+   "score": 190.0,
+   "n": 60
+  },
+  "posters": {
+   "acc": 80.27210884353741,
+   "acc_plus": 61.224489795918366,
+   "score": 141.49659863945578,
+   "n": 294
+  },
+  "_total": {
+   "perception": 1482.0554221688676,
+   "cognition": 319.64285714285717,
+   "hallucination_subset": 615.0
+  }
+ }
+}

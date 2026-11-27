@@ -1,0 +1,10530 @@
+{
+ "447043": {
+  "mentioned": [
+   "clock",
+   "clock",
+   "clock"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "clock"
+  ],
+  "n_words": 32,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "172498": {
+  "mentioned": [
+   "bus",
+   "bus",
+   "person",
+   "bus"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bus",
+   "car",
+   "person"
+  ],
+  "n_words": 48,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "549971": {
+  "mentioned": [
+   "person",
+   "sandwich",
+   "bowl",
+   "sandwich"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bowl",
+   "person",
+   "sandwich"
+  ],
+  "n_words": 31,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "288591": {
+  "mentioned": [
+   "truck"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "truck"
+  ],
+  "n_words": 30,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "189773": {
+  "mentioned": [
+   "bus",
+   "bus"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bus",
+   "car",
+   "orange",
+   "person"
+  ],
+  "n_words": 28,
+  "recall": 0.25,
+  "n_recall": 1,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "389036": {
+  "mentioned": [
+   "person",
+   "kite",
+   "kite",
+   "person",
+   "kite"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "kite",
+   "person"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "251404": {
+  "mentioned": [
+   "person",
+   "tie",
+   "handbag"
+  ],
+  "hallucinated": [
+   "tie",
+   "handbag"
+  ],
+  "hallucinated_words": [
+   "tie",
+   "briefcase"
+  ],
+  "gt": [
+   "person",
+   "suitcase"
+  ],
+  "n_words": 33,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.6666666666666666
+ },
+ "506577": {
+  "mentioned": [
+   "bicycle",
+   "bicycle"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "bicycle",
+   "handbag",
+   "train"
+  ],
+  "n_words": 40,
+  "recall": 0.25,
+  "n_recall": 1,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "232148": {
+  "mentioned": [],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bicycle",
+   "person"
+  ],
+  "n_words": 30,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "473427": {
+  "mentioned": [
+   "dining table",
+   "banana",
+   "banana",
+   "dining table",
+   "banana"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "banana",
+   "dining table"
+  ],
+  "n_words": 51,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "335814": {
+  "mentioned": [
+   "person",
+   "suitcase",
+   "suitcase",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "car",
+   "person",
+   "suitcase"
+  ],
+  "n_words": 44,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "394773": {
+  "mentioned": [
+   "motorcycle",
+   "motorcycle",
+   "backpack"
+  ],
+  "hallucinated": [
+   "backpack"
+  ],
+  "hallucinated_words": [
+   "backpack"
+  ],
+  "gt": [
+   "chair",
+   "handbag",
+   "motorcycle"
+  ],
+  "n_words": 41,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "501153": {
+  "mentioned": [
+   "truck",
+   "person",
+   "truck",
+   "person",
+   "truck"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "person",
+   "truck"
+  ],
+  "n_words": 52,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "206757": {
+  "mentioned": [
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "clock",
+   "person",
+   "traffic light"
+  ],
+  "n_words": 40,
+  "recall": 0.25,
+  "n_recall": 1,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "293749": {
+  "mentioned": [
+   "airplane"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "airplane",
+   "person"
+  ],
+  "n_words": 37,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "516913": {
+  "mentioned": [
+   "person",
+   "tennis racket",
+   "sports ball"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "chair",
+   "person",
+   "sports ball",
+   "tennis racket"
+  ],
+  "n_words": 37,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "312868": {
+  "mentioned": [
+   "dining table",
+   "laptop",
+   "laptop",
+   "laptop",
+   "dining table",
+   "laptop",
+   "laptop",
+   "keyboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cell phone",
+   "chair",
+   "dining table",
+   "keyboard",
+   "laptop",
+   "mouse",
+   "tv"
+  ],
+  "n_words": 45,
+  "recall": 0.42857142857142855,
+  "n_recall": 3,
+  "n_gt": 7,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "493772": {
+  "mentioned": [
+   "person",
+   "umbrella",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "umbrella"
+  ],
+  "n_words": 41,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "70201": {
+  "mentioned": [
+   "cake",
+   "person",
+   "person",
+   "cake",
+   "dining table"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cake",
+   "dining table",
+   "knife",
+   "person",
+   "tie"
+  ],
+  "n_words": 45,
+  "recall": 0.6,
+  "n_recall": 3,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "195645": {
+  "mentioned": [
+   "person",
+   "person",
+   "person",
+   "dining table",
+   "dining table",
+   "wine glass",
+   "bottle"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bench",
+   "bottle",
+   "chair",
+   "dining table",
+   "handbag",
+   "person",
+   "wine glass"
+  ],
+  "n_words": 62,
+  "recall": 0.5714285714285714,
+  "n_recall": 4,
+  "n_gt": 7,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "445371": {
+  "mentioned": [
+   "dog",
+   "bench",
+   "dog",
+   "bench",
+   "car"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bench",
+   "car",
+   "chair",
+   "dining table",
+   "dog",
+   "tie"
+  ],
+  "n_words": 45,
+  "recall": 0.5,
+  "n_recall": 3,
+  "n_gt": 6,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "141143": {
+  "mentioned": [
+   "bird",
+   "bird",
+   "bird"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bird",
+   "person"
+  ],
+  "n_words": 45,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "505240": {
+  "mentioned": [
+   "dining table",
+   "bowl",
+   "broccoli",
+   "broccoli",
+   "dining table"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bowl",
+   "broccoli",
+   "dining table",
+   "spoon"
+  ],
+  "n_words": 47,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "201420": {
+  "mentioned": [
+   "giraffe",
+   "giraffe"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "giraffe"
+  ],
+  "n_words": 39,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "390769": {
+  "mentioned": [
+   "person",
+   "cell phone",
+   "chair",
+   "potted plant"
+  ],
+  "hallucinated": [
+   "chair",
+   "potted plant"
+  ],
+  "hallucinated_words": [
+   "chair",
+   "potted plant"
+  ],
+  "gt": [
+   "cell phone",
+   "person"
+  ],
+  "n_words": 39,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.5
+ },
+ "54011": {
+  "mentioned": [
+   "fire hydrant",
+   "fire hydrant"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "fire hydrant"
+  ],
+  "n_words": 39,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "331307": {
+  "mentioned": [
+   "bird",
+   "bird",
+   "bench"
+  ],
+  "hallucinated": [
+   "bench"
+  ],
+  "hallucinated_words": [
+   "bench"
+  ],
+  "gt": [
+   "bird",
+   "potted plant",
+   "vase"
+  ],
+  "n_words": 32,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "395621": {
+  "mentioned": [
+   "person",
+   "dining table"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bottle",
+   "bowl",
+   "cell phone",
+   "cup",
+   "dining table",
+   "oven",
+   "person",
+   "sink",
+   "spoon"
+  ],
+  "n_words": 42,
+  "recall": 0.2222222222222222,
+  "n_recall": 2,
+  "n_gt": 9,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "442726": {
+  "mentioned": [
+   "person",
+   "person",
+   "bicycle"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bicycle",
+   "person"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "118367": {
+  "mentioned": [
+   "person",
+   "hot dog",
+   "carrot",
+   "hot dog"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "carrot",
+   "hot dog",
+   "person",
+   "sandwich"
+  ],
+  "n_words": 34,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "132901": {
+  "mentioned": [
+   "person",
+   "person",
+   "motorcycle",
+   "person",
+   "motorcycle"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "motorcycle",
+   "person"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "309662": {
+  "mentioned": [
+   "person",
+   "wine glass",
+   "bottle"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bench",
+   "bottle",
+   "handbag",
+   "motorcycle",
+   "person",
+   "wine glass"
+  ],
+  "n_words": 46,
+  "recall": 0.5,
+  "n_recall": 3,
+  "n_gt": 6,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "370210": {
+  "mentioned": [
+   "dog",
+   "chair",
+   "car",
+   "car"
+  ],
+  "hallucinated": [
+   "chair"
+  ],
+  "hallucinated_words": [
+   "seat"
+  ],
+  "gt": [
+   "car",
+   "dog",
+   "person",
+   "traffic light"
+  ],
+  "n_words": 39,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 1,
+  "chair_i": 0.25
+ },
+ "313538": {
+  "mentioned": [
+   "pizza",
+   "pizza",
+   "dining table"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "dining table",
+   "fork",
+   "pizza"
+  ],
+  "n_words": 29,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "327436": {
+  "mentioned": [
+   "person",
+   "dining table",
+   "dining table",
+   "cup",
+   "spoon"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bowl",
+   "cup",
+   "dining table",
+   "person",
+   "spoon"
+  ],
+  "n_words": 44,
+  "recall": 0.8,
+  "n_recall": 4,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "190546": {
+  "mentioned": [
+   "train",
+   "train"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bench",
+   "train"
+  ],
+  "n_words": 32,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "308264": {
+  "mentioned": [
+   "cow",
+   "cow"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cow"
+  ],
+  "n_words": 28,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "405191": {
+  "mentioned": [
+   "person",
+   "frisbee",
+   "frisbee",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bench",
+   "frisbee",
+   "person"
+  ],
+  "n_words": 43,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "393271": {
+  "mentioned": [
+   "person",
+   "snowboard",
+   "person",
+   "snowboard",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "snowboard"
+  ],
+  "n_words": 47,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "300216": {
+  "mentioned": [
+   "sink",
+   "sink",
+   "toothbrush",
+   "sink"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "sink",
+   "toothbrush"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "539738": {
+  "mentioned": [
+   "person",
+   "tie",
+   "suitcase",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "suitcase",
+   "tie"
+  ],
+  "n_words": 35,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "202944": {
+  "mentioned": [
+   "broccoli",
+   "carrot",
+   "bowl",
+   "spoon"
+  ],
+  "hallucinated": [
+   "carrot"
+  ],
+  "hallucinated_words": [
+   "carrot"
+  ],
+  "gt": [
+   "bowl",
+   "broccoli",
+   "spoon"
+  ],
+  "n_words": 53,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.25
+ },
+ "386092": {
+  "mentioned": [
+   "orange",
+   "apple",
+   "orange"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "apple",
+   "carrot",
+   "cup",
+   "dining table",
+   "orange"
+  ],
+  "n_words": 43,
+  "recall": 0.4,
+  "n_recall": 2,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "216841": {
+  "mentioned": [
+   "tie",
+   "tie",
+   "tie",
+   "tie"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "tie"
+  ],
+  "n_words": 46,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "193504": {
+  "mentioned": [
+   "person",
+   "surfboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "surfboard"
+  ],
+  "n_words": 42,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "37339": {
+  "mentioned": [
+   "person"
+  ],
+  "hallucinated": [
+   "person"
+  ],
+  "hallucinated_words": [
+   "driver"
+  ],
+  "gt": [
+   "stop sign"
+  ],
+  "n_words": 43,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 1,
+  "chair_s": 1,
+  "chair_i": 1.0
+ },
+ "213434": {
+  "mentioned": [
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "person"
+  ],
+  "n_words": 35,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "18136": {
+  "mentioned": [
+   "boat",
+   "boat",
+   "boat"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "boat",
+   "person"
+  ],
+  "n_words": 40,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "245414": {
+  "mentioned": [
+   "person",
+   "kite"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "kite",
+   "person",
+   "umbrella"
+  ],
+  "n_words": 25,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "480490": {
+  "mentioned": [
+   "person",
+   "person",
+   "snowboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "skis",
+   "snowboard"
+  ],
+  "n_words": 46,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "302512": {
+  "mentioned": [
+   "person",
+   "fire hydrant"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "fire hydrant",
+   "person"
+  ],
+  "n_words": 26,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "542024": {
+  "mentioned": [
+   "sports ball",
+   "person",
+   "baseball glove"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "baseball bat",
+   "baseball glove",
+   "person",
+   "sports ball"
+  ],
+  "n_words": 50,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "399865": {
+  "mentioned": [],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "traffic light"
+  ],
+  "n_words": 30,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "106736": {
+  "mentioned": [
+   "donut",
+   "donut",
+   "dining table"
+  ],
+  "hallucinated": [
+   "dining table"
+  ],
+  "hallucinated_words": [
+   "table"
+  ],
+  "gt": [
+   "bowl",
+   "cake",
+   "donut"
+  ],
+  "n_words": 43,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "313789": {
+  "mentioned": [
+   "banana",
+   "banana"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "banana"
+  ],
+  "n_words": 39,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "576582": {
+  "mentioned": [
+   "airplane",
+   "airplane",
+   "suitcase",
+   "suitcase",
+   "airplane",
+   "person",
+   "airplane",
+   "suitcase"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "airplane",
+   "person",
+   "suitcase",
+   "truck"
+  ],
+  "n_words": 48,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "218249": {
+  "mentioned": [
+   "sandwich",
+   "sandwich",
+   "dining table"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cup",
+   "dining table",
+   "sandwich"
+  ],
+  "n_words": 43,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "223545": {
+  "mentioned": [
+   "boat",
+   "bird",
+   "boat",
+   "boat",
+   "boat"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bird",
+   "boat"
+  ],
+  "n_words": 48,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "441411": {
+  "mentioned": [
+   "cat",
+   "teddy bear",
+   "cat",
+   "chair"
+  ],
+  "hallucinated": [
+   "chair"
+  ],
+  "hallucinated_words": [
+   "chair"
+  ],
+  "gt": [
+   "bear",
+   "bicycle",
+   "cat",
+   "teddy bear"
+  ],
+  "n_words": 37,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 1,
+  "chair_i": 0.25
+ },
+ "347389": {
+  "mentioned": [
+   "tv",
+   "tv",
+   "tv",
+   "tv"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "dining table",
+   "tv"
+  ],
+  "n_words": 45,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "129982": {
+  "mentioned": [
+   "person",
+   "skis",
+   "person",
+   "skis",
+   "skis"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "skis"
+  ],
+  "n_words": 41,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "192362": {
+  "mentioned": [
+   "person",
+   "skis",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "person",
+   "skis"
+  ],
+  "n_words": 42,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "350309": {
+  "mentioned": [
+   "bus",
+   "bus"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bus",
+   "person"
+  ],
+  "n_words": 42,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "468613": {
+  "mentioned": [
+   "person",
+   "person",
+   "pizza",
+   "pizza",
+   "person",
+   "pizza"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bowl",
+   "clock",
+   "person",
+   "pizza"
+  ],
+  "n_words": 47,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "566038": {
+  "mentioned": [
+   "bird",
+   "bird",
+   "car"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bird",
+   "car"
+  ],
+  "n_words": 40,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "134856": {
+  "mentioned": [
+   "person",
+   "horse",
+   "horse",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "horse",
+   "person"
+  ],
+  "n_words": 40,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "248238": {
+  "mentioned": [
+   "hot dog",
+   "carrot",
+   "hot dog",
+   "carrot",
+   "hot dog"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bowl",
+   "carrot",
+   "dining table",
+   "hot dog",
+   "sandwich"
+  ],
+  "n_words": 45,
+  "recall": 0.4,
+  "n_recall": 2,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "367429": {
+  "mentioned": [
+   "person",
+   "suitcase",
+   "suitcase",
+   "backpack",
+   "person"
+  ],
+  "hallucinated": [
+   "backpack"
+  ],
+  "hallucinated_words": [
+   "backpack"
+  ],
+  "gt": [
+   "bed",
+   "car",
+   "handbag",
+   "person",
+   "suitcase"
+  ],
+  "n_words": 42,
+  "recall": 0.4,
+  "n_recall": 2,
+  "n_gt": 5,
+  "chair_s": 1,
+  "chair_i": 0.2
+ },
+ "319677": {
+  "mentioned": [
+   "person",
+   "tie",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "knife",
+   "person",
+   "tie"
+  ],
+  "n_words": 37,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "318022": {
+  "mentioned": [
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "toothbrush"
+  ],
+  "n_words": 32,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "441969": {
+  "mentioned": [
+   "dining table",
+   "potted plant",
+   "potted plant"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "dining table",
+   "potted plant",
+   "teddy bear",
+   "vase"
+  ],
+  "n_words": 47,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "160864": {
+  "mentioned": [
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "baseball bat",
+   "baseball glove",
+   "chair",
+   "person",
+   "sports ball"
+  ],
+  "n_words": 44,
+  "recall": 0.2,
+  "n_recall": 1,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "125873": {
+  "mentioned": [
+   "person",
+   "tie",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "baseball bat",
+   "person",
+   "sports ball",
+   "tie"
+  ],
+  "n_words": 42,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "314493": {
+  "mentioned": [
+   "airplane",
+   "airplane"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "airplane",
+   "person"
+  ],
+  "n_words": 31,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "196091": {
+  "mentioned": [
+   "potted plant"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "potted plant",
+   "vase"
+  ],
+  "n_words": 44,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "552564": {
+  "mentioned": [
+   "person",
+   "person",
+   "toothbrush",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "toothbrush"
+  ],
+  "n_words": 42,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "61315": {
+  "mentioned": [
+   "person",
+   "pizza",
+   "pizza",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bowl",
+   "dining table",
+   "knife",
+   "person",
+   "pizza",
+   "refrigerator"
+  ],
+  "n_words": 41,
+  "recall": 0.3333333333333333,
+  "n_recall": 2,
+  "n_gt": 6,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "92935": {
+  "mentioned": [
+   "person",
+   "kite",
+   "person",
+   "person",
+   "kite"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "kite",
+   "person"
+  ],
+  "n_words": 45,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "164440": {
+  "mentioned": [
+   "person",
+   "tennis racket",
+   "sports ball"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "sports ball",
+   "tennis racket"
+  ],
+  "n_words": 36,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "4066": {
+  "mentioned": [
+   "person",
+   "person",
+   "surfboard",
+   "surfboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "surfboard"
+  ],
+  "n_words": 48,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "143275": {
+  "mentioned": [
+   "person",
+   "skis",
+   "person",
+   "skis",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "person",
+   "skis"
+  ],
+  "n_words": 47,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "416049": {
+  "mentioned": [
+   "zebra",
+   "zebra",
+   "zebra"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "zebra"
+  ],
+  "n_words": 47,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "223188": {
+  "mentioned": [
+   "person",
+   "cow",
+   "cow",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "chair",
+   "clock",
+   "cow",
+   "person"
+  ],
+  "n_words": 45,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "332096": {
+  "mentioned": [
+   "person",
+   "person",
+   "sports ball",
+   "person",
+   "baseball glove"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "baseball glove",
+   "person",
+   "sports ball"
+  ],
+  "n_words": 44,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "216303": {
+  "mentioned": [
+   "person",
+   "tennis racket",
+   "chair"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "chair",
+   "person",
+   "sports ball",
+   "tennis racket"
+  ],
+  "n_words": 47,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "76962": {
+  "mentioned": [
+   "fire hydrant",
+   "fire hydrant"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "fire hydrant"
+  ],
+  "n_words": 30,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "185821": {
+  "mentioned": [
+   "giraffe",
+   "giraffe"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "giraffe",
+   "zebra"
+  ],
+  "n_words": 41,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "269866": {
+  "mentioned": [
+   "microwave",
+   "microwave"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "clock",
+   "microwave",
+   "oven",
+   "toaster"
+  ],
+  "n_words": 32,
+  "recall": 0.25,
+  "n_recall": 1,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "226472": {
+  "mentioned": [
+   "horse",
+   "horse",
+   "horse",
+   "person",
+   "person",
+   "horse"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "handbag",
+   "horse",
+   "person",
+   "potted plant",
+   "tie"
+  ],
+  "n_words": 50,
+  "recall": 0.4,
+  "n_recall": 2,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "438432": {
+  "mentioned": [
+   "tie"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "chair",
+   "person",
+   "sports ball",
+   "tie"
+  ],
+  "n_words": 47,
+  "recall": 0.25,
+  "n_recall": 1,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "572233": {
+  "mentioned": [
+   "person",
+   "dining table",
+   "dining table",
+   "wine glass",
+   "cup"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "chair",
+   "cup",
+   "dining table",
+   "knife",
+   "person",
+   "potted plant",
+   "tie",
+   "vase",
+   "wine glass"
+  ],
+  "n_words": 43,
+  "recall": 0.4444444444444444,
+  "n_recall": 4,
+  "n_gt": 9,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "249884": {
+  "mentioned": [
+   "pizza",
+   "pizza",
+   "pizza",
+   "pizza"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "pizza"
+  ],
+  "n_words": 46,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "458119": {
+  "mentioned": [
+   "cat",
+   "bicycle",
+   "cat",
+   "bicycle"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bicycle",
+   "cat",
+   "chair"
+  ],
+  "n_words": 27,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "498225": {
+  "mentioned": [
+   "person",
+   "cake",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cake",
+   "cell phone",
+   "donut",
+   "handbag",
+   "person"
+  ],
+  "n_words": 51,
+  "recall": 0.4,
+  "n_recall": 2,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "413839": {
+  "mentioned": [
+   "person",
+   "bench",
+   "bird",
+   "bird",
+   "bench",
+   "person",
+   "bird"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bench",
+   "bird",
+   "person"
+  ],
+  "n_words": 49,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "393804": {
+  "mentioned": [
+   "sandwich",
+   "sandwich",
+   "fork",
+   "knife"
+  ],
+  "hallucinated": [
+   "knife"
+  ],
+  "hallucinated_words": [
+   "knife"
+  ],
+  "gt": [
+   "banana",
+   "fork",
+   "sandwich"
+  ],
+  "n_words": 33,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.25
+ },
+ "190362": {
+  "mentioned": [
+   "suitcase",
+   "suitcase",
+   "train",
+   "suitcase"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "handbag",
+   "person",
+   "suitcase",
+   "train"
+  ],
+  "n_words": 42,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "66468": {
+  "mentioned": [
+   "dining table",
+   "pizza",
+   "pizza",
+   "dining table",
+   "knife",
+   "fork"
+  ],
+  "hallucinated": [
+   "fork"
+  ],
+  "hallucinated_words": [
+   "fork"
+  ],
+  "gt": [
+   "chair",
+   "cup",
+   "dining table",
+   "knife",
+   "person",
+   "pizza"
+  ],
+  "n_words": 41,
+  "recall": 0.5,
+  "n_recall": 3,
+  "n_gt": 6,
+  "chair_s": 1,
+  "chair_i": 0.16666666666666666
+ },
+ "286124": {
+  "mentioned": [
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "boat",
+   "car",
+   "handbag",
+   "person"
+  ],
+  "n_words": 45,
+  "recall": 0.25,
+  "n_recall": 1,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "287331": {
+  "mentioned": [
+   "dog",
+   "frisbee",
+   "dog"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "dog",
+   "frisbee"
+  ],
+  "n_words": 32,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "263929": {
+  "mentioned": [
+   "cow",
+   "cow",
+   "cow"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cow"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "129699": {
+  "mentioned": [
+   "traffic light"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "traffic light"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "536416": {
+  "mentioned": [
+   "person",
+   "surfboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "surfboard"
+  ],
+  "n_words": 39,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "236599": {
+  "mentioned": [
+   "kite",
+   "kite"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "kite",
+   "person",
+   "tie"
+  ],
+  "n_words": 37,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "501142": {
+  "mentioned": [
+   "cow",
+   "cow"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "boat",
+   "cow"
+  ],
+  "n_words": 31,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "95319": {
+  "mentioned": [
+   "person",
+   "hot dog",
+   "hot dog"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "dog",
+   "hot dog",
+   "person"
+  ],
+  "n_words": 39,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "470417": {
+  "mentioned": [
+   "surfboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "surfboard"
+  ],
+  "n_words": 43,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "207196": {
+  "mentioned": [
+   "oven",
+   "oven",
+   "microwave",
+   "sink",
+   "bottle",
+   "cup",
+   "bowl"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "apple",
+   "book",
+   "bottle",
+   "bowl",
+   "cup",
+   "knife",
+   "microwave",
+   "oven",
+   "refrigerator",
+   "remote",
+   "scissors",
+   "sink",
+   "spoon"
+  ],
+  "n_words": 44,
+  "recall": 0.46153846153846156,
+  "n_recall": 6,
+  "n_gt": 13,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "185686": {
+  "mentioned": [
+   "person",
+   "dining table",
+   "person",
+   "dining table",
+   "cup",
+   "bowl"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bench",
+   "bottle",
+   "bowl",
+   "chair",
+   "cup",
+   "dining table",
+   "person",
+   "spoon"
+  ],
+  "n_words": 50,
+  "recall": 0.5,
+  "n_recall": 4,
+  "n_gt": 8,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "368602": {
+  "mentioned": [
+   "person",
+   "skis",
+   "boat",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "boat",
+   "person",
+   "skis",
+   "surfboard"
+  ],
+  "n_words": 40,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "167074": {
+  "mentioned": [
+   "person",
+   "fire hydrant",
+   "boat"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "boat",
+   "car",
+   "fire hydrant",
+   "person",
+   "truck"
+  ],
+  "n_words": 38,
+  "recall": 0.6,
+  "n_recall": 3,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "490032": {
+  "mentioned": [
+   "person",
+   "surfboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "surfboard"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "211215": {
+  "mentioned": [
+   "person",
+   "backpack",
+   "banana"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "banana",
+   "bus",
+   "car",
+   "person"
+  ],
+  "n_words": 30,
+  "recall": 0.6,
+  "n_recall": 3,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "303260": {
+  "mentioned": [
+   "person",
+   "tie",
+   "person",
+   "person",
+   "cell phone"
+  ],
+  "hallucinated": [
+   "tie"
+  ],
+  "hallucinated_words": [
+   "tie"
+  ],
+  "gt": [
+   "cell phone",
+   "person"
+  ],
+  "n_words": 42,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.2
+ },
+ "336232": {
+  "mentioned": [
+   "car",
+   "bus",
+   "motorcycle",
+   "person",
+   "motorcycle"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bus",
+   "car",
+   "motorcycle",
+   "person",
+   "truck"
+  ],
+  "n_words": 52,
+  "recall": 0.8,
+  "n_recall": 4,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "42375": {
+  "mentioned": [
+   "person",
+   "dining table",
+   "wine glass",
+   "dining table",
+   "wine glass"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bowl",
+   "chair",
+   "dining table",
+   "handbag",
+   "person",
+   "wine glass"
+  ],
+  "n_words": 41,
+  "recall": 0.5,
+  "n_recall": 3,
+  "n_gt": 6,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "550527": {
+  "mentioned": [
+   "toilet",
+   "toilet",
+   "sink"
+  ],
+  "hallucinated": [
+   "sink"
+  ],
+  "hallucinated_words": [
+   "sink"
+  ],
+  "gt": [
+   "toilet"
+  ],
+  "n_words": 44,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "517386": {
+  "mentioned": [
+   "dining table",
+   "vase",
+   "dining table",
+   "cup",
+   "bowl",
+   "cake"
+  ],
+  "hallucinated": [
+   "cake"
+  ],
+  "hallucinated_words": [
+   "cake"
+  ],
+  "gt": [
+   "bowl",
+   "cup",
+   "dining table",
+   "potted plant",
+   "vase"
+  ],
+  "n_words": 48,
+  "recall": 0.8,
+  "n_recall": 4,
+  "n_gt": 5,
+  "chair_s": 1,
+  "chair_i": 0.16666666666666666
+ },
+ "357870": {
+  "mentioned": [
+   "dining table",
+   "laptop",
+   "laptop",
+   "dining table",
+   "mouse",
+   "cell phone"
+  ],
+  "hallucinated": [
+   "cell phone"
+  ],
+  "hallucinated_words": [
+   "cell phone"
+  ],
+  "gt": [
+   "book",
+   "chair",
+   "dining table",
+   "laptop",
+   "mouse"
+  ],
+  "n_words": 44,
+  "recall": 0.6,
+  "n_recall": 3,
+  "n_gt": 5,
+  "chair_s": 1,
+  "chair_i": 0.16666666666666666
+ },
+ "68745": {
+  "mentioned": [
+   "teddy bear",
+   "book",
+   "cup",
+   "teddy bear"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bear",
+   "book",
+   "cup",
+   "fork",
+   "knife",
+   "spoon",
+   "suitcase",
+   "teddy bear"
+  ],
+  "n_words": 43,
+  "recall": 0.375,
+  "n_recall": 3,
+  "n_gt": 8,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "113082": {
+  "mentioned": [
+   "dining table",
+   "dining table",
+   "bowl",
+   "cup",
+   "refrigerator",
+   "microwave",
+   "oven"
+  ],
+  "hallucinated": [
+   "cup"
+  ],
+  "hallucinated_words": [
+   "cup"
+  ],
+  "gt": [
+   "bottle",
+   "bowl",
+   "chair",
+   "dining table",
+   "microwave",
+   "oven",
+   "refrigerator",
+   "sandwich",
+   "sink",
+   "spoon",
+   "vase"
+  ],
+  "n_words": 52,
+  "recall": 0.45454545454545453,
+  "n_recall": 5,
+  "n_gt": 11,
+  "chair_s": 1,
+  "chair_i": 0.14285714285714285
+ },
+ "217228": {
+  "mentioned": [
+   "zebra",
+   "zebra"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "zebra"
+  ],
+  "n_words": 27,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "51500": {
+  "mentioned": [
+   "person",
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "carrot",
+   "person",
+   "scissors"
+  ],
+  "n_words": 36,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "492349": {
+  "mentioned": [
+   "bird",
+   "bird",
+   "bird"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bird"
+  ],
+  "n_words": 37,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "119513": {
+  "mentioned": [
+   "person",
+   "skateboard",
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "chair",
+   "person",
+   "skateboard"
+  ],
+  "n_words": 35,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "199127": {
+  "mentioned": [
+   "bus",
+   "bus",
+   "car",
+   "bus"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bus",
+   "car",
+   "person"
+  ],
+  "n_words": 48,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "83462": {
+  "mentioned": [
+   "dining table",
+   "laptop",
+   "tv",
+   "keyboard",
+   "mouse",
+   "book",
+   "dining table",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "book",
+   "bowl",
+   "cell phone",
+   "chair",
+   "cup",
+   "dining table",
+   "keyboard",
+   "laptop",
+   "mouse",
+   "person",
+   "tv"
+  ],
+  "n_words": 49,
+  "recall": 0.6363636363636364,
+  "n_recall": 7,
+  "n_gt": 11,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "479008": {
+  "mentioned": [
+   "airplane",
+   "person",
+   "person",
+   "chair",
+   "person",
+   "airplane"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "airplane",
+   "book",
+   "chair",
+   "person"
+  ],
+  "n_words": 41,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "164453": {
+  "mentioned": [
+   "dining table",
+   "laptop",
+   "laptop",
+   "laptop",
+   "keyboard",
+   "mouse",
+   "dining table",
+   "chair"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cell phone",
+   "chair",
+   "dining table",
+   "keyboard",
+   "laptop",
+   "mouse",
+   "tv"
+  ],
+  "n_words": 40,
+  "recall": 0.7142857142857143,
+  "n_recall": 5,
+  "n_gt": 7,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "223739": {
+  "mentioned": [
+   "person",
+   "bottle",
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "book",
+   "bottle",
+   "bowl",
+   "chair",
+   "person",
+   "wine glass"
+  ],
+  "n_words": 47,
+  "recall": 0.3333333333333333,
+  "n_recall": 2,
+  "n_gt": 6,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "463783": {
+  "mentioned": [
+   "person",
+   "bench",
+   "person",
+   "person",
+   "bench"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bench",
+   "handbag",
+   "person",
+   "tie"
+  ],
+  "n_words": 43,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "555337": {
+  "mentioned": [
+   "cow",
+   "cow",
+   "cow"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cow"
+  ],
+  "n_words": 41,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "156637": {
+  "mentioned": [
+   "donut",
+   "dining table",
+   "donut"
+  ],
+  "hallucinated": [
+   "dining table"
+  ],
+  "hallucinated_words": [
+   "table"
+  ],
+  "gt": [
+   "donut",
+   "knife",
+   "person"
+  ],
+  "n_words": 31,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "153717": {
+  "mentioned": [
+   "person",
+   "frisbee",
+   "frisbee"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bottle",
+   "frisbee",
+   "person"
+  ],
+  "n_words": 44,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "82468": {
+  "mentioned": [
+   "carrot",
+   "dining table"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "carrot",
+   "cup",
+   "dining table"
+  ],
+  "n_words": 43,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "119365": {
+  "mentioned": [
+   "person",
+   "laptop"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cell phone",
+   "dining table",
+   "keyboard",
+   "laptop",
+   "person"
+  ],
+  "n_words": 30,
+  "recall": 0.4,
+  "n_recall": 2,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "99177": {
+  "mentioned": [
+   "person",
+   "person",
+   "umbrella",
+   "umbrella"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "handbag",
+   "person",
+   "umbrella"
+  ],
+  "n_words": 40,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "564820": {
+  "mentioned": [
+   "bed",
+   "backpack",
+   "cell phone",
+   "handbag",
+   "handbag",
+   "book",
+   "bottle"
+  ],
+  "hallucinated": [
+   "bed",
+   "book",
+   "bottle"
+  ],
+  "hallucinated_words": [
+   "bed",
+   "book",
+   "bottle"
+  ],
+  "gt": [
+   "apple",
+   "backpack",
+   "cell phone",
+   "dining table",
+   "handbag",
+   "person"
+  ],
+  "n_words": 44,
+  "recall": 0.5,
+  "n_recall": 3,
+  "n_gt": 6,
+  "chair_s": 1,
+  "chair_i": 0.42857142857142855
+ },
+ "533688": {
+  "mentioned": [
+   "carrot"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "carrot",
+   "dining table",
+   "orange"
+  ],
+  "n_words": 47,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "574507": {
+  "mentioned": [
+   "person",
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "person",
+   "snowboard"
+  ],
+  "n_words": 44,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "27871": {
+  "mentioned": [
+   "person",
+   "horse",
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "horse",
+   "person",
+   "sports ball"
+  ],
+  "n_words": 49,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "565986": {
+  "mentioned": [
+   "person",
+   "chair",
+   "pizza",
+   "pizza"
+  ],
+  "hallucinated": [
+   "chair"
+  ],
+  "hallucinated_words": [
+   "chair"
+  ],
+  "gt": [
+   "couch",
+   "person",
+   "pizza"
+  ],
+  "n_words": 31,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.25
+ },
+ "102912": {
+  "mentioned": [
+   "elephant",
+   "elephant",
+   "elephant"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "elephant"
+  ],
+  "n_words": 47,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "532390": {
+  "mentioned": [
+   "airplane",
+   "airplane",
+   "truck"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "airplane",
+   "car",
+   "person",
+   "truck"
+  ],
+  "n_words": 37,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "170517": {
+  "mentioned": [
+   "person",
+   "dog",
+   "person",
+   "umbrella",
+   "dog",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "dog",
+   "person",
+   "umbrella"
+  ],
+  "n_words": 41,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "517465": {
+  "mentioned": [
+   "person",
+   "sports ball"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "person",
+   "sports ball"
+  ],
+  "n_words": 36,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "298637": {
+  "mentioned": [
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "skis"
+  ],
+  "n_words": 32,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "486": {
+  "mentioned": [
+   "spoon",
+   "bowl",
+   "refrigerator",
+   "oven"
+  ],
+  "hallucinated": [
+   "spoon"
+  ],
+  "hallucinated_words": [
+   "spoon"
+  ],
+  "gt": [
+   "bottle",
+   "bowl",
+   "knife",
+   "oven",
+   "refrigerator"
+  ],
+  "n_words": 48,
+  "recall": 0.6,
+  "n_recall": 3,
+  "n_gt": 5,
+  "chair_s": 1,
+  "chair_i": 0.25
+ },
+ "117112": {
+  "mentioned": [
+   "person",
+   "person",
+   "remote",
+   "couch"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bottle",
+   "couch",
+   "cup",
+   "person",
+   "potted plant",
+   "remote"
+  ],
+  "n_words": 44,
+  "recall": 0.5,
+  "n_recall": 3,
+  "n_gt": 6,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "266434": {
+  "mentioned": [
+   "baseball bat"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "baseball bat",
+   "baseball glove",
+   "person",
+   "sports ball"
+  ],
+  "n_words": 47,
+  "recall": 0.25,
+  "n_recall": 1,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "26730": {
+  "mentioned": [
+   "dog",
+   "motorcycle",
+   "dog",
+   "motorcycle",
+   "car"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "chair",
+   "dog",
+   "motorcycle"
+  ],
+  "n_words": 34,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "172952": {
+  "mentioned": [
+   "person",
+   "person",
+   "person",
+   "tie",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "book",
+   "cup",
+   "person",
+   "tie",
+   "tv"
+  ],
+  "n_words": 48,
+  "recall": 0.4,
+  "n_recall": 2,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "57072": {
+  "mentioned": [
+   "knife",
+   "knife",
+   "dining table"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "dining table",
+   "knife",
+   "sandwich"
+  ],
+  "n_words": 41,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "98656": {
+  "mentioned": [
+   "person",
+   "orange",
+   "motorcycle",
+   "person",
+   "motorcycle"
+  ],
+  "hallucinated": [
+   "orange"
+  ],
+  "hallucinated_words": [
+   "orange"
+  ],
+  "gt": [
+   "handbag",
+   "motorcycle",
+   "person"
+  ],
+  "n_words": 44,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.2
+ },
+ "199050": {
+  "mentioned": [
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "tie"
+  ],
+  "n_words": 42,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "550805": {
+  "mentioned": [
+   "truck",
+   "truck"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bed",
+   "motorcycle",
+   "person",
+   "truck"
+  ],
+  "n_words": 33,
+  "recall": 0.25,
+  "n_recall": 1,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "196839": {
+  "mentioned": [
+   "horse",
+   "horse",
+   "horse"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "horse"
+  ],
+  "n_words": 39,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "180817": {
+  "mentioned": [
+   "person",
+   "teddy bear"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "teddy bear"
+  ],
+  "n_words": 33,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "438186": {
+  "mentioned": [
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "donut",
+   "person"
+  ],
+  "n_words": 34,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "176794": {
+  "mentioned": [
+   "person",
+   "person",
+   "tennis racket"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "tennis racket"
+  ],
+  "n_words": 40,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "449661": {
+  "mentioned": [
+   "person",
+   "bed",
+   "chair",
+   "tv",
+   "person",
+   "bed"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bed",
+   "chair",
+   "person",
+   "sink",
+   "tv"
+  ],
+  "n_words": 41,
+  "recall": 0.8,
+  "n_recall": 4,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "297537": {
+  "mentioned": [
+   "giraffe",
+   "giraffe"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "giraffe"
+  ],
+  "n_words": 40,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "258541": {
+  "mentioned": [
+   "person",
+   "orange",
+   "tie",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "orange",
+   "person",
+   "tie"
+  ],
+  "n_words": 38,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "431570": {
+  "mentioned": [
+   "motorcycle",
+   "person",
+   "motorcycle",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "motorcycle",
+   "person"
+  ],
+  "n_words": 42,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "416827": {
+  "mentioned": [
+   "train",
+   "train"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "train"
+  ],
+  "n_words": 36,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "205782": {
+  "mentioned": [
+   "bus",
+   "bus"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bus",
+   "handbag",
+   "person"
+  ],
+  "n_words": 32,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "379584": {
+  "mentioned": [
+   "sheep",
+   "sheep"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "sheep"
+  ],
+  "n_words": 37,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "557686": {
+  "mentioned": [
+   "bird",
+   "bird"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bird"
+  ],
+  "n_words": 42,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "426283": {
+  "mentioned": [
+   "cat",
+   "bed",
+   "bed",
+   "cat",
+   "bed"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bed",
+   "cat",
+   "teddy bear"
+  ],
+  "n_words": 37,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "397433": {
+  "mentioned": [
+   "person",
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cell phone",
+   "cup",
+   "mouse",
+   "person"
+  ],
+  "n_words": 40,
+  "recall": 0.25,
+  "n_recall": 1,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "565043": {
+  "mentioned": [
+   "person",
+   "tie",
+   "pizza"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "pizza",
+   "tie"
+  ],
+  "n_words": 27,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "127669": {
+  "mentioned": [
+   "person",
+   "surfboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "surfboard"
+  ],
+  "n_words": 38,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "198448": {
+  "mentioned": [
+   "person",
+   "suitcase",
+   "suitcase",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "suitcase"
+  ],
+  "n_words": 48,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "152245": {
+  "mentioned": [
+   "person",
+   "suitcase",
+   "handbag",
+   "suitcase",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "handbag",
+   "person",
+   "suitcase",
+   "tv"
+  ],
+  "n_words": 44,
+  "recall": 0.6,
+  "n_recall": 3,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "295713": {
+  "mentioned": [
+   "person",
+   "bench",
+   "cell phone",
+   "person",
+   "bench"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bench",
+   "cell phone",
+   "handbag",
+   "person"
+  ],
+  "n_words": 46,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "377385": {
+  "mentioned": [
+   "person",
+   "tennis racket",
+   "sports ball"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "sports ball",
+   "tennis racket"
+  ],
+  "n_words": 39,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "186938": {
+  "mentioned": [
+   "bird",
+   "bird"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bird"
+  ],
+  "n_words": 29,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "170173": {
+  "mentioned": [
+   "person",
+   "horse"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "horse",
+   "person"
+  ],
+  "n_words": 35,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "338304": {
+  "mentioned": [
+   "person",
+   "sheep",
+   "sheep",
+   "person",
+   "sheep"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cell phone",
+   "handbag",
+   "person",
+   "sheep"
+  ],
+  "n_words": 44,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "432818": {
+  "mentioned": [
+   "person",
+   "kite",
+   "kite"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "kite",
+   "person"
+  ],
+  "n_words": 42,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "13948": {
+  "mentioned": [
+   "zebra",
+   "zebra"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "zebra"
+  ],
+  "n_words": 42,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "113720": {
+  "mentioned": [
+   "person",
+   "person",
+   "dining table",
+   "pizza",
+   "dining table",
+   "dining table",
+   "cup",
+   "fork",
+   "knife"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bottle",
+   "chair",
+   "cup",
+   "dining table",
+   "fork",
+   "knife",
+   "person",
+   "pizza"
+  ],
+  "n_words": 49,
+  "recall": 0.75,
+  "n_recall": 6,
+  "n_gt": 8,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "317725": {
+  "mentioned": [
+   "bowl",
+   "donut",
+   "donut"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bowl",
+   "cup",
+   "dining table",
+   "donut",
+   "sports ball"
+  ],
+  "n_words": 30,
+  "recall": 0.4,
+  "n_recall": 2,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "2525": {
+  "mentioned": [
+   "person",
+   "cake",
+   "cake",
+   "cake",
+   "dining table"
+  ],
+  "hallucinated": [
+   "dining table"
+  ],
+  "hallucinated_words": [
+   "table"
+  ],
+  "gt": [
+   "cake",
+   "person"
+  ],
+  "n_words": 41,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.2
+ },
+ "211054": {
+  "mentioned": [
+   "train",
+   "train"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "train"
+  ],
+  "n_words": 34,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "482007": {
+  "mentioned": [],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "potted plant",
+   "vase"
+  ],
+  "n_words": 45,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "398203": {
+  "mentioned": [
+   "person",
+   "person",
+   "sports ball",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "sports ball"
+  ],
+  "n_words": 45,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "34522": {
+  "mentioned": [
+   "bird",
+   "person",
+   "bird"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bird",
+   "person"
+  ],
+  "n_words": 34,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "203081": {
+  "mentioned": [
+   "train",
+   "train",
+   "train",
+   "person",
+   "train"
+  ],
+  "hallucinated": [
+   "person"
+  ],
+  "hallucinated_words": [
+   "passenger"
+  ],
+  "gt": [
+   "train"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 1,
+  "chair_i": 0.2
+ },
+ "578131": {
+  "mentioned": [
+   "person",
+   "horse",
+   "horse",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "horse",
+   "person"
+  ],
+  "n_words": 50,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "441543": {
+  "mentioned": [
+   "umbrella",
+   "person",
+   "umbrella",
+   "person",
+   "backpack"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "cell phone",
+   "person",
+   "umbrella"
+  ],
+  "n_words": 43,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "527407": {
+  "mentioned": [
+   "clock",
+   "clock"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "clock"
+  ],
+  "n_words": 45,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "471785": {
+  "mentioned": [
+   "person",
+   "dining table",
+   "hot dog",
+   "dining table",
+   "hot dog"
+  ],
+  "hallucinated": [
+   "dining table",
+   "dining table"
+  ],
+  "hallucinated_words": [
+   "table",
+   "table"
+  ],
+  "gt": [
+   "bottle",
+   "hot dog",
+   "person"
+  ],
+  "n_words": 46,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.4
+ },
+ "520427": {
+  "mentioned": [
+   "person",
+   "orange",
+   "bicycle",
+   "bicycle"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "bicycle",
+   "bottle",
+   "chair",
+   "clock",
+   "dining table",
+   "orange",
+   "person",
+   "potted plant"
+  ],
+  "n_words": 44,
+  "recall": 0.3333333333333333,
+  "n_recall": 3,
+  "n_gt": 9,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "46173": {
+  "mentioned": [
+   "person",
+   "person",
+   "cell phone",
+   "person"
+  ],
+  "hallucinated": [
+   "cell phone"
+  ],
+  "hallucinated_words": [
+   "cell phone"
+  ],
+  "gt": [
+   "bench",
+   "handbag",
+   "person"
+  ],
+  "n_words": 40,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.25
+ },
+ "409784": {
+  "mentioned": [
+   "person",
+   "tennis racket",
+   "sports ball"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "chair",
+   "person",
+   "sports ball",
+   "tennis racket"
+  ],
+  "n_words": 41,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "314704": {
+  "mentioned": [
+   "person",
+   "sports ball"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "baseball bat",
+   "baseball glove",
+   "bench",
+   "chair",
+   "person",
+   "sports ball"
+  ],
+  "n_words": 44,
+  "recall": 0.3333333333333333,
+  "n_recall": 2,
+  "n_gt": 6,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "9813": {
+  "mentioned": [
+   "person",
+   "horse",
+   "horse",
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "horse",
+   "person"
+  ],
+  "n_words": 54,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "484722": {
+  "mentioned": [
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "skis"
+  ],
+  "n_words": 37,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "322429": {
+  "mentioned": [],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bowl",
+   "cup",
+   "vase"
+  ],
+  "n_words": 47,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "526044": {
+  "mentioned": [
+   "cow",
+   "cow"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cow"
+  ],
+  "n_words": 30,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "242345": {
+  "mentioned": [],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "parking meter"
+  ],
+  "n_words": 29,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "149568": {
+  "mentioned": [
+   "person",
+   "dog",
+   "dog",
+   "person",
+   "dog"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "dog",
+   "frisbee",
+   "person"
+  ],
+  "n_words": 49,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "213399": {
+  "mentioned": [
+   "giraffe"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "giraffe"
+  ],
+  "n_words": 39,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "574666": {
+  "mentioned": [
+   "person",
+   "skateboard",
+   "skateboard",
+   "person",
+   "skateboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "skateboard"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "102577": {
+  "mentioned": [
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "airplane",
+   "kite",
+   "person",
+   "skis",
+   "surfboard"
+  ],
+  "n_words": 44,
+  "recall": 0.2,
+  "n_recall": 1,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "409211": {
+  "mentioned": [
+   "person",
+   "tennis racket",
+   "sports ball"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "sports ball",
+   "tennis racket"
+  ],
+  "n_words": 38,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "63394": {
+  "mentioned": [
+   "person",
+   "surfboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "kite",
+   "person",
+   "surfboard"
+  ],
+  "n_words": 43,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "127170": {
+  "mentioned": [
+   "person",
+   "person",
+   "dining table",
+   "person",
+   "cake",
+   "person",
+   "person",
+   "chair"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bottle",
+   "cake",
+   "chair",
+   "dining table",
+   "person",
+   "pizza"
+  ],
+  "n_words": 48,
+  "recall": 0.6666666666666666,
+  "n_recall": 4,
+  "n_gt": 6,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "165750": {
+  "mentioned": [
+   "sink"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bottle",
+   "sink",
+   "toilet"
+  ],
+  "n_words": 42,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "23320": {
+  "mentioned": [
+   "cake",
+   "cake",
+   "knife",
+   "dining table"
+  ],
+  "hallucinated": [
+   "dining table"
+  ],
+  "hallucinated_words": [
+   "table"
+  ],
+  "gt": [
+   "cake",
+   "cup",
+   "fork",
+   "knife",
+   "mouse"
+  ],
+  "n_words": 45,
+  "recall": 0.4,
+  "n_recall": 2,
+  "n_gt": 5,
+  "chair_s": 1,
+  "chair_i": 0.25
+ },
+ "320715": {
+  "mentioned": [
+   "person",
+   "person",
+   "sports ball",
+   "sports ball"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "baseball bat",
+   "person",
+   "sports ball"
+  ],
+  "n_words": 40,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "292075": {
+  "mentioned": [
+   "giraffe",
+   "giraffe"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "giraffe"
+  ],
+  "n_words": 29,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "239145": {
+  "mentioned": [
+   "hot dog",
+   "hot dog"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bowl",
+   "hot dog",
+   "sandwich"
+  ],
+  "n_words": 44,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "470161": {
+  "mentioned": [
+   "person",
+   "bed",
+   "book",
+   "bed"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bed",
+   "book",
+   "person"
+  ],
+  "n_words": 42,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "153205": {
+  "mentioned": [
+   "skis",
+   "backpack",
+   "skis",
+   "skis"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "person",
+   "skis",
+   "suitcase"
+  ],
+  "n_words": 32,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "344832": {
+  "mentioned": [
+   "person",
+   "baseball bat",
+   "sports ball",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "baseball bat",
+   "baseball glove",
+   "person",
+   "sports ball"
+  ],
+  "n_words": 42,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "443139": {
+  "mentioned": [
+   "dog",
+   "car",
+   "dog"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "dog",
+   "handbag",
+   "person"
+  ],
+  "n_words": 31,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "411871": {
+  "mentioned": [
+   "fork",
+   "knife",
+   "carrot"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "carrot",
+   "dining table",
+   "fork",
+   "knife"
+  ],
+  "n_words": 46,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "467484": {
+  "mentioned": [
+   "fire hydrant",
+   "fire hydrant"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "fire hydrant"
+  ],
+  "n_words": 38,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "308964": {
+  "mentioned": [
+   "dining table",
+   "cake",
+   "dining table",
+   "cake",
+   "dining table"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "book",
+   "cake",
+   "chair",
+   "dining table",
+   "donut",
+   "person",
+   "tv"
+  ],
+  "n_words": 45,
+  "recall": 0.2857142857142857,
+  "n_recall": 2,
+  "n_gt": 7,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "151911": {
+  "mentioned": [
+   "dining table",
+   "chair",
+   "dining table",
+   "potted plant",
+   "vase",
+   "refrigerator",
+   "sink",
+   "oven"
+  ],
+  "hallucinated": [
+   "vase"
+  ],
+  "hallucinated_words": [
+   "vase"
+  ],
+  "gt": [
+   "bottle",
+   "chair",
+   "dining table",
+   "microwave",
+   "oven",
+   "potted plant",
+   "refrigerator",
+   "sink"
+  ],
+  "n_words": 43,
+  "recall": 0.75,
+  "n_recall": 6,
+  "n_gt": 8,
+  "chair_s": 1,
+  "chair_i": 0.125
+ },
+ "34234": {
+  "mentioned": [
+   "person",
+   "skateboard",
+   "skateboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "skateboard"
+  ],
+  "n_words": 44,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "115924": {
+  "mentioned": [
+   "person",
+   "surfboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "surfboard"
+  ],
+  "n_words": 38,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "113707": {
+  "mentioned": [
+   "cat",
+   "laptop",
+   "cat",
+   "laptop"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bottle",
+   "car",
+   "cat",
+   "chair",
+   "dining table",
+   "keyboard",
+   "laptop",
+   "orange"
+  ],
+  "n_words": 26,
+  "recall": 0.25,
+  "n_recall": 2,
+  "n_gt": 8,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "345294": {
+  "mentioned": [
+   "person",
+   "skateboard",
+   "skateboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "skateboard"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "404338": {
+  "mentioned": [],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "stop sign"
+  ],
+  "n_words": 32,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "171360": {
+  "mentioned": [
+   "motorcycle",
+   "person",
+   "handbag",
+   "potted plant"
+  ],
+  "hallucinated": [
+   "handbag"
+  ],
+  "hallucinated_words": [
+   "handbag"
+  ],
+  "gt": [
+   "chair",
+   "dining table",
+   "motorcycle",
+   "person",
+   "potted plant"
+  ],
+  "n_words": 40,
+  "recall": 0.6,
+  "n_recall": 3,
+  "n_gt": 5,
+  "chair_s": 1,
+  "chair_i": 0.25
+ },
+ "480179": {
+  "mentioned": [
+   "suitcase",
+   "suitcase"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "suitcase"
+  ],
+  "n_words": 49,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "90626": {
+  "mentioned": [
+   "bus",
+   "bus"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bus"
+  ],
+  "n_words": 36,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "50403": {
+  "mentioned": [
+   "teddy bear",
+   "dining table",
+   "teddy bear",
+   "tie",
+   "dining table",
+   "cell phone"
+  ],
+  "hallucinated": [
+   "tie"
+  ],
+  "hallucinated_words": [
+   "bow"
+  ],
+  "gt": [
+   "bear",
+   "cell phone",
+   "dining table",
+   "person",
+   "teddy bear"
+  ],
+  "n_words": 44,
+  "recall": 0.6,
+  "n_recall": 3,
+  "n_gt": 5,
+  "chair_s": 1,
+  "chair_i": 0.16666666666666666
+ },
+ "413475": {
+  "mentioned": [],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "stop sign"
+  ],
+  "n_words": 31,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "24285": {
+  "mentioned": [
+   "person",
+   "tennis racket",
+   "sports ball"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "sports ball",
+   "tennis racket"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "259452": {
+  "mentioned": [
+   "car",
+   "truck",
+   "traffic light"
+  ],
+  "hallucinated": [
+   "truck"
+  ],
+  "hallucinated_words": [
+   "truck"
+  ],
+  "gt": [
+   "car",
+   "traffic light"
+  ],
+  "n_words": 42,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "218561": {
+  "mentioned": [
+   "dog",
+   "frisbee",
+   "dog"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "dog",
+   "frisbee"
+  ],
+  "n_words": 29,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "112298": {
+  "mentioned": [
+   "person",
+   "tennis racket",
+   "bottle",
+   "handbag",
+   "person",
+   "tennis racket"
+  ],
+  "hallucinated": [
+   "handbag"
+  ],
+  "hallucinated_words": [
+   "handbag"
+  ],
+  "gt": [
+   "bottle",
+   "person",
+   "tennis racket"
+  ],
+  "n_words": 45,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.16666666666666666
+ },
+ "301236": {
+  "mentioned": [
+   "zebra",
+   "zebra",
+   "zebra",
+   "zebra",
+   "zebra"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "person",
+   "zebra"
+  ],
+  "n_words": 37,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "516677": {
+  "mentioned": [
+   "person",
+   "backpack"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "handbag",
+   "person",
+   "skis"
+  ],
+  "n_words": 43,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "539224": {
+  "mentioned": [
+   "teddy bear",
+   "teddy bear"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bear",
+   "cell phone",
+   "teddy bear"
+  ],
+  "n_words": 30,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "131494": {
+  "mentioned": [
+   "person",
+   "person",
+   "motorcycle",
+   "person",
+   "motorcycle",
+   "person",
+   "motorcycle"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "motorcycle",
+   "parking meter",
+   "person"
+  ],
+  "n_words": 40,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "201120": {
+  "mentioned": [
+   "dining table",
+   "scissors",
+   "scissors"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "dining table",
+   "scissors"
+  ],
+  "n_words": 33,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "541435": {
+  "mentioned": [
+   "cup",
+   "bottle"
+  ],
+  "hallucinated": [
+   "bottle"
+  ],
+  "hallucinated_words": [
+   "bottle"
+  ],
+  "gt": [
+   "chair",
+   "cup"
+  ],
+  "n_words": 45,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.5
+ },
+ "555217": {
+  "mentioned": [
+   "person",
+   "suitcase",
+   "suitcase",
+   "suitcase"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "handbag",
+   "person",
+   "potted plant",
+   "suitcase"
+  ],
+  "n_words": 32,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "103027": {
+  "mentioned": [
+   "book",
+   "cell phone",
+   "laptop",
+   "handbag"
+  ],
+  "hallucinated": [
+   "book",
+   "laptop",
+   "handbag"
+  ],
+  "hallucinated_words": [
+   "book",
+   "laptop",
+   "handbag"
+  ],
+  "gt": [
+   "backpack",
+   "cell phone"
+  ],
+  "n_words": 44,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.75
+ },
+ "409566": {
+  "mentioned": [
+   "toilet",
+   "sink",
+   "toilet",
+   "sink",
+   "toilet"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "sink",
+   "toilet"
+  ],
+  "n_words": 45,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "97626": {
+  "mentioned": [
+   "person",
+   "horse",
+   "horse",
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "horse",
+   "person"
+  ],
+  "n_words": 44,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "568675": {
+  "mentioned": [
+   "donut",
+   "donut",
+   "donut"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "donut"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "252179": {
+  "mentioned": [
+   "person",
+   "cake",
+   "cake",
+   "cake",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cake",
+   "car",
+   "fork",
+   "person"
+  ],
+  "n_words": 36,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "412036": {
+  "mentioned": [
+   "sandwich",
+   "donut"
+  ],
+  "hallucinated": [
+   "sandwich"
+  ],
+  "hallucinated_words": [
+   "sandwich"
+  ],
+  "gt": [
+   "bowl",
+   "dining table",
+   "donut"
+  ],
+  "n_words": 38,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.5
+ },
+ "531234": {
+  "mentioned": [
+   "person",
+   "motorcycle",
+   "motorcycle"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "motorcycle",
+   "person"
+  ],
+  "n_words": 37,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "151330": {
+  "mentioned": [
+   "person",
+   "surfboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "surfboard"
+  ],
+  "n_words": 31,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "218608": {
+  "mentioned": [
+   "cake",
+   "orange",
+   "orange"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cake",
+   "dining table",
+   "orange"
+  ],
+  "n_words": 34,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "133": {
+  "mentioned": [
+   "bed",
+   "bed"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bed",
+   "dining table",
+   "teddy bear"
+  ],
+  "n_words": 30,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "489091": {
+  "mentioned": [
+   "sink",
+   "toilet",
+   "sink"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "sink",
+   "toilet"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "118564": {
+  "mentioned": [
+   "person",
+   "person",
+   "snowboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "snowboard"
+  ],
+  "n_words": 28,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "188579": {
+  "mentioned": [
+   "person",
+   "skis",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "skis"
+  ],
+  "n_words": 36,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "358658": {
+  "mentioned": [
+   "tv",
+   "couch",
+   "chair"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bed",
+   "chair",
+   "couch",
+   "tv"
+  ],
+  "n_words": 36,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "508846": {
+  "mentioned": [
+   "cat",
+   "toilet",
+   "bowl",
+   "cat"
+  ],
+  "hallucinated": [
+   "toilet",
+   "bowl"
+  ],
+  "hallucinated_words": [
+   "toilet",
+   "bowl"
+  ],
+  "gt": [
+   "cat",
+   "sink"
+  ],
+  "n_words": 25,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.5
+ },
+ "544855": {
+  "mentioned": [
+   "person",
+   "train",
+   "train",
+   "person",
+   "train"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "train"
+  ],
+  "n_words": 34,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "386066": {
+  "mentioned": [
+   "toilet",
+   "toilet"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "toilet"
+  ],
+  "n_words": 27,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "423410": {
+  "mentioned": [],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "dog"
+  ],
+  "n_words": 26,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "544538": {
+  "mentioned": [
+   "person",
+   "hot dog",
+   "refrigerator",
+   "sink"
+  ],
+  "hallucinated": [
+   "sink"
+  ],
+  "hallucinated_words": [
+   "sink"
+  ],
+  "gt": [
+   "bottle",
+   "dining table",
+   "hot dog",
+   "person",
+   "refrigerator"
+  ],
+  "n_words": 42,
+  "recall": 0.6,
+  "n_recall": 3,
+  "n_gt": 5,
+  "chair_s": 1,
+  "chair_i": 0.25
+ },
+ "163447": {
+  "mentioned": [
+   "vase"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "dining table",
+   "potted plant",
+   "vase"
+  ],
+  "n_words": 44,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "234057": {
+  "mentioned": [
+   "sheep",
+   "sheep",
+   "sheep",
+   "sheep"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bird",
+   "sheep"
+  ],
+  "n_words": 40,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "525050": {
+  "mentioned": [
+   "stop sign",
+   "stop sign",
+   "car"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "person",
+   "stop sign"
+  ],
+  "n_words": 45,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "277498": {
+  "mentioned": [
+   "zebra",
+   "zebra"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "zebra"
+  ],
+  "n_words": 40,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "262227": {
+  "mentioned": [
+   "laptop",
+   "tv",
+   "dining table",
+   "tv",
+   "dining table",
+   "book"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "book",
+   "dining table",
+   "laptop",
+   "person",
+   "tv"
+  ],
+  "n_words": 36,
+  "recall": 0.8,
+  "n_recall": 4,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "562171": {
+  "mentioned": [
+   "giraffe",
+   "giraffe",
+   "person",
+   "giraffe"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "giraffe",
+   "person"
+  ],
+  "n_words": 42,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "338532": {
+  "mentioned": [
+   "giraffe",
+   "giraffe"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "giraffe",
+   "person"
+  ],
+  "n_words": 28,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "427521": {
+  "mentioned": [
+   "bowl",
+   "bowl",
+   "broccoli",
+   "carrot"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bowl",
+   "broccoli",
+   "carrot",
+   "dining table"
+  ],
+  "n_words": 43,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "106120": {
+  "mentioned": [
+   "toilet",
+   "sink",
+   "toilet",
+   "sink",
+   "sink",
+   "toilet"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bottle",
+   "sink",
+   "toilet"
+  ],
+  "n_words": 43,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "383748": {
+  "mentioned": [
+   "clock",
+   "clock"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "clock",
+   "tie"
+  ],
+  "n_words": 31,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "377670": {
+  "mentioned": [
+   "teddy bear",
+   "boat",
+   "teddy bear"
+  ],
+  "hallucinated": [
+   "boat"
+  ],
+  "hallucinated_words": [
+   "boat"
+  ],
+  "gt": [
+   "person",
+   "teddy bear"
+  ],
+  "n_words": 36,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "267225": {
+  "mentioned": [
+   "truck",
+   "truck",
+   "car",
+   "truck",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "person",
+   "remote",
+   "truck",
+   "tv"
+  ],
+  "n_words": 45,
+  "recall": 0.6,
+  "n_recall": 3,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "301746": {
+  "mentioned": [
+   "bicycle",
+   "traffic light"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bicycle",
+   "person",
+   "stop sign",
+   "traffic light"
+  ],
+  "n_words": 37,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "476417": {
+  "mentioned": [
+   "bear",
+   "bear",
+   "bear",
+   "bear"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bear"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "496531": {
+  "mentioned": [
+   "stop sign",
+   "stop sign"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "stop sign"
+  ],
+  "n_words": 31,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "215949": {
+  "mentioned": [
+   "chair",
+   "cat",
+   "dining table"
+  ],
+  "hallucinated": [
+   "dining table"
+  ],
+  "hallucinated_words": [
+   "table"
+  ],
+  "gt": [
+   "cat",
+   "chair"
+  ],
+  "n_words": 37,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "225405": {
+  "mentioned": [
+   "person",
+   "person",
+   "sports ball",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "sports ball"
+  ],
+  "n_words": 45,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "340036": {
+  "mentioned": [
+   "train",
+   "train",
+   "traffic light",
+   "train"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "orange",
+   "traffic light",
+   "train"
+  ],
+  "n_words": 44,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "214742": {
+  "mentioned": [
+   "person",
+   "person",
+   "person",
+   "bottle"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "baseball bat",
+   "bottle",
+   "person"
+  ],
+  "n_words": 43,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "399968": {
+  "mentioned": [
+   "person",
+   "tennis racket",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "sports ball",
+   "tennis racket"
+  ],
+  "n_words": 35,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "444270": {
+  "mentioned": [
+   "sink",
+   "sink",
+   "sink"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "sink"
+  ],
+  "n_words": 45,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "544644": {
+  "mentioned": [
+   "fire hydrant",
+   "fire hydrant"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "fire hydrant"
+  ],
+  "n_words": 42,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "292945": {
+  "mentioned": [
+   "person",
+   "bench",
+   "bench"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bench",
+   "bottle",
+   "person"
+  ],
+  "n_words": 33,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "271934": {
+  "mentioned": [
+   "clock",
+   "clock"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "clock"
+  ],
+  "n_words": 39,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "184338": {
+  "mentioned": [
+   "truck",
+   "truck"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bed",
+   "person",
+   "truck"
+  ],
+  "n_words": 42,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "445179": {
+  "mentioned": [
+   "bench",
+   "bench",
+   "bench"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bench"
+  ],
+  "n_words": 47,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "514294": {
+  "mentioned": [
+   "bowl",
+   "cup",
+   "spoon"
+  ],
+  "hallucinated": [
+   "cup",
+   "spoon"
+  ],
+  "hallucinated_words": [
+   "cup",
+   "spoon"
+  ],
+  "gt": [
+   "bowl",
+   "teddy bear",
+   "toaster"
+  ],
+  "n_words": 50,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.6666666666666666
+ },
+ "49994": {
+  "mentioned": [
+   "traffic light",
+   "traffic light"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "traffic light"
+  ],
+  "n_words": 29,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "238911": {
+  "mentioned": [
+   "dining table",
+   "sandwich",
+   "cup",
+   "donut",
+   "dining table"
+  ],
+  "hallucinated": [
+   "donut"
+  ],
+  "hallucinated_words": [
+   "donut"
+  ],
+  "gt": [
+   "book",
+   "bowl",
+   "cup",
+   "dining table",
+   "sandwich"
+  ],
+  "n_words": 45,
+  "recall": 0.6,
+  "n_recall": 3,
+  "n_gt": 5,
+  "chair_s": 1,
+  "chair_i": 0.2
+ },
+ "361022": {
+  "mentioned": [
+   "person",
+   "dog",
+   "dog"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "dog",
+   "person"
+  ],
+  "n_words": 31,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "198464": {
+  "mentioned": [
+   "sandwich",
+   "dining table",
+   "sandwich",
+   "sandwich",
+   "sandwich",
+   "cup"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cup",
+   "dining table",
+   "hot dog",
+   "person",
+   "sandwich"
+  ],
+  "n_words": 47,
+  "recall": 0.6,
+  "n_recall": 3,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "249156": {
+  "mentioned": [
+   "person",
+   "person",
+   "umbrella",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "umbrella"
+  ],
+  "n_words": 48,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "392506": {
+  "mentioned": [
+   "person",
+   "banana",
+   "banana"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "banana",
+   "bottle",
+   "bowl",
+   "knife",
+   "person",
+   "spoon"
+  ],
+  "n_words": 32,
+  "recall": 0.3333333333333333,
+  "n_recall": 2,
+  "n_gt": 6,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "492562": {
+  "mentioned": [
+   "train",
+   "train",
+   "car",
+   "truck",
+   "train"
+  ],
+  "hallucinated": [
+   "car",
+   "truck"
+  ],
+  "hallucinated_words": [
+   "car",
+   "truck"
+  ],
+  "gt": [
+   "train"
+  ],
+  "n_words": 50,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 1,
+  "chair_i": 0.4
+ },
+ "128476": {
+  "mentioned": [
+   "person",
+   "dining table",
+   "cake",
+   "cake",
+   "person",
+   "cake"
+  ],
+  "hallucinated": [
+   "dining table"
+  ],
+  "hallucinated_words": [
+   "table"
+  ],
+  "gt": [
+   "cake",
+   "cup",
+   "person"
+  ],
+  "n_words": 46,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.16666666666666666
+ },
+ "300138": {
+  "mentioned": [
+   "vase",
+   "dining table",
+   "vase"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bowl",
+   "dining table",
+   "person",
+   "vase"
+  ],
+  "n_words": 33,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "270505": {
+  "mentioned": [
+   "person",
+   "elephant",
+   "elephant",
+   "person",
+   "elephant"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "elephant",
+   "motorcycle",
+   "orange",
+   "person",
+   "umbrella"
+  ],
+  "n_words": 45,
+  "recall": 0.3333333333333333,
+  "n_recall": 2,
+  "n_gt": 6,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "511349": {
+  "mentioned": [
+   "cow"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cow"
+  ],
+  "n_words": 30,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "128058": {
+  "mentioned": [
+   "person",
+   "tennis racket",
+   "sports ball"
+  ],
+  "hallucinated": [
+   "sports ball"
+  ],
+  "hallucinated_words": [
+   "ball"
+  ],
+  "gt": [
+   "person",
+   "tennis racket"
+  ],
+  "n_words": 36,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "88682": {
+  "mentioned": [
+   "person",
+   "umbrella"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "umbrella"
+  ],
+  "n_words": 46,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "480133": {
+  "mentioned": [
+   "person",
+   "person",
+   "kite"
+  ],
+  "hallucinated": [
+   "kite"
+  ],
+  "hallucinated_words": [
+   "kite"
+  ],
+  "gt": [
+   "airplane",
+   "person"
+  ],
+  "n_words": 54,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "208740": {
+  "mentioned": [
+   "person",
+   "dining table",
+   "wine glass",
+   "handbag",
+   "cell phone",
+   "person"
+  ],
+  "hallucinated": [
+   "handbag",
+   "cell phone"
+  ],
+  "hallucinated_words": [
+   "handbag",
+   "cell phone"
+  ],
+  "gt": [
+   "bowl",
+   "chair",
+   "dining table",
+   "fork",
+   "knife",
+   "person",
+   "tie",
+   "wine glass"
+  ],
+  "n_words": 42,
+  "recall": 0.375,
+  "n_recall": 3,
+  "n_gt": 8,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "440724": {
+  "mentioned": [
+   "dining table"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "broccoli",
+   "carrot",
+   "cup",
+   "dining table",
+   "fork"
+  ],
+  "n_words": 45,
+  "recall": 0.2,
+  "n_recall": 1,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "577219": {
+  "mentioned": [
+   "person",
+   "horse",
+   "person",
+   "horse",
+   "horse"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "horse",
+   "person"
+  ],
+  "n_words": 47,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "266853": {
+  "mentioned": [
+   "car",
+   "elephant",
+   "elephant",
+   "person",
+   "chair"
+  ],
+  "hallucinated": [
+   "person",
+   "chair"
+  ],
+  "hallucinated_words": [
+   "driver",
+   "seat"
+  ],
+  "gt": [
+   "car",
+   "elephant"
+  ],
+  "n_words": 32,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.4
+ },
+ "281711": {
+  "mentioned": [
+   "refrigerator",
+   "microwave",
+   "handbag"
+  ],
+  "hallucinated": [
+   "microwave",
+   "handbag"
+  ],
+  "hallucinated_words": [
+   "microwave",
+   "handbag"
+  ],
+  "gt": [
+   "oven",
+   "potted plant",
+   "refrigerator",
+   "sink"
+  ],
+  "n_words": 40,
+  "recall": 0.25,
+  "n_recall": 1,
+  "n_gt": 4,
+  "chair_s": 1,
+  "chair_i": 0.6666666666666666
+ },
+ "234169": {
+  "mentioned": [
+   "donut",
+   "donut",
+   "donut"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "donut",
+   "person"
+  ],
+  "n_words": 49,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "493019": {
+  "mentioned": [
+   "zebra",
+   "zebra",
+   "zebra"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "giraffe",
+   "zebra"
+  ],
+  "n_words": 46,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "369404": {
+  "mentioned": [
+   "person",
+   "orange",
+   "remote"
+  ],
+  "hallucinated": [
+   "orange"
+  ],
+  "hallucinated_words": [
+   "orange"
+  ],
+  "gt": [
+   "dining table",
+   "person",
+   "remote",
+   "tv"
+  ],
+  "n_words": 37,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "267515": {
+  "mentioned": [
+   "sink",
+   "toothbrush",
+   "toothbrush"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "sink",
+   "toothbrush"
+  ],
+  "n_words": 34,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "174258": {
+  "mentioned": [
+   "microwave",
+   "microwave"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "microwave"
+  ],
+  "n_words": 30,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "455975": {
+  "mentioned": [
+   "person",
+   "couch",
+   "laptop",
+   "laptop",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "couch",
+   "laptop",
+   "person"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "346641": {
+  "mentioned": [
+   "person",
+   "cow",
+   "person",
+   "cow",
+   "person"
+  ],
+  "hallucinated": [
+   "person",
+   "person",
+   "person"
+  ],
+  "hallucinated_words": [
+   "mother",
+   "baby",
+   "mother"
+  ],
+  "gt": [
+   "cow"
+  ],
+  "n_words": 45,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 1,
+  "chair_i": 0.6
+ },
+ "28719": {
+  "mentioned": [
+   "person",
+   "person",
+   "dining table",
+   "hot dog",
+   "dining table",
+   "hot dog"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bottle",
+   "chair",
+   "dining table",
+   "dog",
+   "hot dog",
+   "person",
+   "sandwich"
+  ],
+  "n_words": 37,
+  "recall": 0.42857142857142855,
+  "n_recall": 3,
+  "n_gt": 7,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "568191": {
+  "mentioned": [
+   "bird",
+   "bird"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bird"
+  ],
+  "n_words": 26,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "356400": {
+  "mentioned": [
+   "sink",
+   "refrigerator",
+   "bowl"
+  ],
+  "hallucinated": [
+   "refrigerator"
+  ],
+  "hallucinated_words": [
+   "refrigerator"
+  ],
+  "gt": [
+   "apple",
+   "bowl",
+   "potted plant",
+   "sink",
+   "vase"
+  ],
+  "n_words": 45,
+  "recall": 0.4,
+  "n_recall": 2,
+  "n_gt": 5,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "59743": {
+  "mentioned": [
+   "person",
+   "surfboard",
+   "person",
+   "surfboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "surfboard"
+  ],
+  "n_words": 49,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "127660": {
+  "mentioned": [
+   "person",
+   "suitcase"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "suitcase"
+  ],
+  "n_words": 39,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "96207": {
+  "mentioned": [
+   "truck",
+   "car"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "person",
+   "truck"
+  ],
+  "n_words": 41,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "402234": {
+  "mentioned": [
+   "elephant",
+   "elephant"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "elephant"
+  ],
+  "n_words": 48,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "581731": {
+  "mentioned": [],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "fire hydrant"
+  ],
+  "n_words": 33,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "306636": {
+  "mentioned": [
+   "person",
+   "frisbee",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "frisbee",
+   "person"
+  ],
+  "n_words": 44,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "181524": {
+  "mentioned": [
+   "car"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "traffic light"
+  ],
+  "n_words": 46,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "71724": {
+  "mentioned": [
+   "boat",
+   "boat",
+   "person",
+   "boat"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "boat",
+   "person"
+  ],
+  "n_words": 50,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "550372": {
+  "mentioned": [
+   "train",
+   "train",
+   "train",
+   "person"
+  ],
+  "hallucinated": [
+   "person"
+  ],
+  "hallucinated_words": [
+   "passenger"
+  ],
+  "gt": [
+   "clock",
+   "train"
+  ],
+  "n_words": 31,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.25
+ },
+ "240811": {
+  "mentioned": [
+   "person",
+   "skis",
+   "snowboard",
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "skis",
+   "snowboard"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "30361": {
+  "mentioned": [
+   "dining table",
+   "cup",
+   "spoon",
+   "laptop",
+   "dining table"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "book",
+   "cup",
+   "dining table",
+   "keyboard",
+   "laptop",
+   "spoon"
+  ],
+  "n_words": 44,
+  "recall": 0.6666666666666666,
+  "n_recall": 4,
+  "n_gt": 6,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "247873": {
+  "mentioned": [
+   "suitcase",
+   "suitcase",
+   "car"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "suitcase"
+  ],
+  "n_words": 41,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "494970": {
+  "mentioned": [
+   "dining table"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "dining table",
+   "vase"
+  ],
+  "n_words": 45,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "180232": {
+  "mentioned": [
+   "orange"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "orange"
+  ],
+  "n_words": 26,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "412240": {
+  "mentioned": [
+   "dog",
+   "dog",
+   "bed"
+  ],
+  "hallucinated": [
+   "bed"
+  ],
+  "hallucinated_words": [
+   "bed"
+  ],
+  "gt": [
+   "dog"
+  ],
+  "n_words": 39,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "158964": {
+  "mentioned": [
+   "person",
+   "horse"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "horse",
+   "person"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "183181": {
+  "mentioned": [
+   "sheep",
+   "sheep"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cow",
+   "person",
+   "sheep",
+   "surfboard"
+  ],
+  "n_words": 36,
+  "recall": 0.25,
+  "n_recall": 1,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "449089": {
+  "mentioned": [
+   "person",
+   "couch",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cake",
+   "couch",
+   "knife",
+   "person"
+  ],
+  "n_words": 38,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "252383": {
+  "mentioned": [
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "skis",
+   "snowboard"
+  ],
+  "n_words": 44,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "65024": {
+  "mentioned": [
+   "bear",
+   "bear",
+   "bear",
+   "bear"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bear"
+  ],
+  "n_words": 42,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "439224": {
+  "mentioned": [
+   "carrot",
+   "carrot"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bowl",
+   "carrot",
+   "fork"
+  ],
+  "n_words": 49,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "118378": {
+  "mentioned": [
+   "refrigerator",
+   "oven",
+   "microwave",
+   "sink",
+   "dining table",
+   "chair",
+   "couch",
+   "tv"
+  ],
+  "hallucinated": [
+   "dining table",
+   "chair",
+   "couch"
+  ],
+  "hallucinated_words": [
+   "table",
+   "chair",
+   "couch"
+  ],
+  "gt": [
+   "book",
+   "bottle",
+   "bowl",
+   "cup",
+   "microwave",
+   "oven",
+   "refrigerator",
+   "sink",
+   "tv",
+   "vase"
+  ],
+  "n_words": 54,
+  "recall": 0.5,
+  "n_recall": 5,
+  "n_gt": 10,
+  "chair_s": 1,
+  "chair_i": 0.375
+ },
+ "94922": {
+  "mentioned": [
+   "person",
+   "frisbee",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "dog",
+   "frisbee",
+   "person"
+  ],
+  "n_words": 39,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "563797": {
+  "mentioned": [
+   "elephant",
+   "elephant"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "elephant",
+   "person"
+  ],
+  "n_words": 39,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "254045": {
+  "mentioned": [
+   "cat",
+   "toilet",
+   "cat"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cat",
+   "toilet"
+  ],
+  "n_words": 25,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "124486": {
+  "mentioned": [
+   "person",
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "baseball bat",
+   "person"
+  ],
+  "n_words": 45,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "365317": {
+  "mentioned": [
+   "person",
+   "tennis racket"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "sports ball",
+   "tennis racket"
+  ],
+  "n_words": 39,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "560373": {
+  "mentioned": [
+   "person",
+   "bench",
+   "dog",
+   "dog",
+   "person"
+  ],
+  "hallucinated": [
+   "bench"
+  ],
+  "hallucinated_words": [
+   "bench"
+  ],
+  "gt": [
+   "chair",
+   "dining table",
+   "dog",
+   "person",
+   "suitcase"
+  ],
+  "n_words": 33,
+  "recall": 0.4,
+  "n_recall": 2,
+  "n_gt": 5,
+  "chair_s": 1,
+  "chair_i": 0.2
+ },
+ "92804": {
+  "mentioned": [
+   "person",
+   "skis",
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "person",
+   "skis"
+  ],
+  "n_words": 45,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "210846": {
+  "mentioned": [
+   "person",
+   "bowl"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bowl",
+   "person",
+   "pizza",
+   "sandwich",
+   "spoon"
+  ],
+  "n_words": 39,
+  "recall": 0.4,
+  "n_recall": 2,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "555366": {
+  "mentioned": [
+   "zebra",
+   "zebra",
+   "zebra"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "zebra"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "222009": {
+  "mentioned": [
+   "vase",
+   "vase",
+   "dining table"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "dining table",
+   "vase"
+  ],
+  "n_words": 47,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "156071": {
+  "mentioned": [
+   "person",
+   "cow",
+   "person",
+   "cow"
+  ],
+  "hallucinated": [
+   "cow",
+   "cow"
+  ],
+  "hallucinated_words": [
+   "bull",
+   "bull"
+  ],
+  "gt": [
+   "car",
+   "person",
+   "sheep"
+  ],
+  "n_words": 39,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.5
+ },
+ "280760": {
+  "mentioned": [
+   "person",
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bed",
+   "chair",
+   "person"
+  ],
+  "n_words": 46,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "131627": {
+  "mentioned": [],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bus"
+  ],
+  "n_words": 36,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "102741": {
+  "mentioned": [
+   "car",
+   "car"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "bicycle",
+   "car",
+   "fire hydrant",
+   "handbag",
+   "person",
+   "traffic light"
+  ],
+  "n_words": 45,
+  "recall": 0.14285714285714285,
+  "n_recall": 1,
+  "n_gt": 7,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "124927": {
+  "mentioned": [
+   "person",
+   "surfboard",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "surfboard"
+  ],
+  "n_words": 31,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "321071": {
+  "mentioned": [
+   "dining table",
+   "sandwich",
+   "sandwich",
+   "dining table"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "dining table",
+   "person",
+   "sandwich"
+  ],
+  "n_words": 41,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "391285": {
+  "mentioned": [
+   "person",
+   "snowboard",
+   "person",
+   "snowboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "skis",
+   "snowboard"
+  ],
+  "n_words": 48,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "311041": {
+  "mentioned": [
+   "orange",
+   "orange",
+   "dining table"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bench",
+   "cup",
+   "dining table",
+   "orange",
+   "person"
+  ],
+  "n_words": 43,
+  "recall": 0.4,
+  "n_recall": 2,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "315976": {
+  "mentioned": [
+   "bus",
+   "bus"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bicycle",
+   "bus",
+   "handbag",
+   "person"
+  ],
+  "n_words": 31,
+  "recall": 0.25,
+  "n_recall": 1,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "520154": {
+  "mentioned": [
+   "pizza",
+   "pizza"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "pizza"
+  ],
+  "n_words": 31,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "223327": {
+  "mentioned": [
+   "person",
+   "skis",
+   "person",
+   "skis",
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "skis"
+  ],
+  "n_words": 39,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "18770": {
+  "mentioned": [
+   "person",
+   "tie",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "tie"
+  ],
+  "n_words": 39,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "573066": {
+  "mentioned": [
+   "cow",
+   "cow"
+  ],
+  "hallucinated": [
+   "cow",
+   "cow"
+  ],
+  "hallucinated_words": [
+   "cow",
+   "cow"
+  ],
+  "gt": [
+   "horse"
+  ],
+  "n_words": 33,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 1,
+  "chair_s": 1,
+  "chair_i": 1.0
+ },
+ "264330": {
+  "mentioned": [
+   "teddy bear",
+   "car",
+   "car"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bear",
+   "car",
+   "teddy bear"
+  ],
+  "n_words": 27,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "362123": {
+  "mentioned": [
+   "stop sign",
+   "fire hydrant"
+  ],
+  "hallucinated": [
+   "fire hydrant"
+  ],
+  "hallucinated_words": [
+   "fire hydrant"
+  ],
+  "gt": [
+   "car",
+   "stop sign"
+  ],
+  "n_words": 43,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.5
+ },
+ "133195": {
+  "mentioned": [
+   "clock",
+   "clock"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "clock"
+  ],
+  "n_words": 47,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "541054": {
+  "mentioned": [
+   "person",
+   "tennis racket"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "tennis racket"
+  ],
+  "n_words": 38,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "253576": {
+  "mentioned": [
+   "person",
+   "person",
+   "backpack",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "person",
+   "snowboard"
+  ],
+  "n_words": 45,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "161877": {
+  "mentioned": [
+   "person",
+   "remote"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "chair",
+   "clock",
+   "couch",
+   "cup",
+   "dining table",
+   "person",
+   "remote"
+  ],
+  "n_words": 35,
+  "recall": 0.2857142857142857,
+  "n_recall": 2,
+  "n_gt": 7,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "480780": {
+  "mentioned": [
+   "banana",
+   "banana"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "banana",
+   "person",
+   "traffic light"
+  ],
+  "n_words": 38,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "243950": {
+  "mentioned": [
+   "person",
+   "tennis racket",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "chair",
+   "handbag",
+   "person",
+   "sports ball",
+   "tennis racket"
+  ],
+  "n_words": 38,
+  "recall": 0.3333333333333333,
+  "n_recall": 2,
+  "n_gt": 6,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "206596": {
+  "mentioned": [
+   "person",
+   "baseball bat",
+   "sports ball"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "baseball bat",
+   "person",
+   "sports ball"
+  ],
+  "n_words": 40,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "521838": {
+  "mentioned": [
+   "train",
+   "train"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "train"
+  ],
+  "n_words": 38,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "125853": {
+  "mentioned": [
+   "elephant",
+   "elephant",
+   "elephant"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "elephant"
+  ],
+  "n_words": 44,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "406899": {
+  "mentioned": [
+   "person",
+   "person",
+   "umbrella"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "chair",
+   "handbag",
+   "person",
+   "umbrella"
+  ],
+  "n_words": 44,
+  "recall": 0.4,
+  "n_recall": 2,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "515565": {
+  "mentioned": [
+   "clock",
+   "clock"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "clock"
+  ],
+  "n_words": 40,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "181799": {
+  "mentioned": [
+   "carrot",
+   "broccoli",
+   "dining table"
+  ],
+  "hallucinated": [
+   "dining table"
+  ],
+  "hallucinated_words": [
+   "table"
+  ],
+  "gt": [
+   "broccoli",
+   "carrot"
+  ],
+  "n_words": 41,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "119630": {
+  "mentioned": [
+   "suitcase",
+   "suitcase"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "suitcase"
+  ],
+  "n_words": 28,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "124659": {
+  "mentioned": [
+   "couch",
+   "chair",
+   "tv",
+   "book",
+   "laptop",
+   "vase"
+  ],
+  "hallucinated": [
+   "tv",
+   "vase"
+  ],
+  "hallucinated_words": [
+   "tv",
+   "vase"
+  ],
+  "gt": [
+   "book",
+   "chair",
+   "clock",
+   "couch",
+   "dining table",
+   "laptop",
+   "person"
+  ],
+  "n_words": 44,
+  "recall": 0.5714285714285714,
+  "n_recall": 4,
+  "n_gt": 7,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "219904": {
+  "mentioned": [
+   "giraffe",
+   "giraffe"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "giraffe"
+  ],
+  "n_words": 35,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "239456": {
+  "mentioned": [
+   "person",
+   "tennis racket"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "sports ball",
+   "tennis racket"
+  ],
+  "n_words": 36,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "22892": {
+  "mentioned": [
+   "cat",
+   "chair",
+   "cat",
+   "dog"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cat",
+   "chair",
+   "dining table",
+   "dog",
+   "potted plant"
+  ],
+  "n_words": 42,
+  "recall": 0.6,
+  "n_recall": 3,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "104563": {
+  "mentioned": [
+   "person",
+   "skateboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "skateboard"
+  ],
+  "n_words": 36,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "402410": {
+  "mentioned": [
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "snowboard"
+  ],
+  "n_words": 40,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "504824": {
+  "mentioned": [
+   "person",
+   "teddy bear",
+   "person",
+   "teddy bear"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "chair",
+   "couch",
+   "person",
+   "teddy bear"
+  ],
+  "n_words": 25,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "399377": {
+  "mentioned": [
+   "person",
+   "sandwich",
+   "sandwich",
+   "person",
+   "sandwich"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "hot dog",
+   "person",
+   "sandwich",
+   "sports ball"
+  ],
+  "n_words": 41,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "31093": {
+  "mentioned": [
+   "person",
+   "skateboard",
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "bowl",
+   "person",
+   "skateboard"
+  ],
+  "n_words": 44,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "451559": {
+  "mentioned": [
+   "bench",
+   "bicycle",
+   "bench"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "bench",
+   "bicycle"
+  ],
+  "n_words": 33,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "147729": {
+  "mentioned": [
+   "person",
+   "cell phone",
+   "person",
+   "cell phone",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cell phone",
+   "person"
+  ],
+  "n_words": 50,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "262576": {
+  "mentioned": [
+   "laptop",
+   "bed",
+   "laptop",
+   "bed",
+   "laptop"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bed",
+   "laptop"
+  ],
+  "n_words": 36,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "341603": {
+  "mentioned": [
+   "person",
+   "donut"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "chair",
+   "couch",
+   "donut",
+   "person"
+  ],
+  "n_words": 32,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "329486": {
+  "mentioned": [
+   "train",
+   "train"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "train"
+  ],
+  "n_words": 32,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "276804": {
+  "mentioned": [
+   "baseball bat"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "baseball bat",
+   "baseball glove",
+   "person",
+   "sports ball"
+  ],
+  "n_words": 49,
+  "recall": 0.25,
+  "n_recall": 1,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "458313": {
+  "mentioned": [
+   "donut",
+   "donut",
+   "donut"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cup",
+   "dining table",
+   "donut"
+  ],
+  "n_words": 44,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "553081": {
+  "mentioned": [
+   "giraffe",
+   "giraffe"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bird",
+   "giraffe"
+  ],
+  "n_words": 42,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "425484": {
+  "mentioned": [],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "kite",
+   "person",
+   "umbrella"
+  ],
+  "n_words": 33,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "525381": {
+  "mentioned": [
+   "person",
+   "sports ball",
+   "person",
+   "baseball glove"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "baseball bat",
+   "baseball glove",
+   "chair",
+   "cup",
+   "person",
+   "sports ball"
+  ],
+  "n_words": 51,
+  "recall": 0.5,
+  "n_recall": 3,
+  "n_gt": 6,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "29030": {
+  "mentioned": [
+   "person",
+   "cell phone",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cell phone",
+   "person"
+  ],
+  "n_words": 31,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "269172": {
+  "mentioned": [],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "chair",
+   "clock",
+   "person",
+   "tie"
+  ],
+  "n_words": 47,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "177935": {
+  "mentioned": [
+   "oven",
+   "oven",
+   "oven",
+   "oven",
+   "knife",
+   "spoon"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "clock",
+   "knife",
+   "oven",
+   "spoon"
+  ],
+  "n_words": 37,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "363106": {
+  "mentioned": [
+   "person",
+   "remote",
+   "couch",
+   "chair"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "chair",
+   "couch",
+   "person",
+   "remote",
+   "tv"
+  ],
+  "n_words": 41,
+  "recall": 0.8,
+  "n_recall": 4,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "470885": {
+  "mentioned": [
+   "person",
+   "horse",
+   "boat",
+   "horse",
+   "person",
+   "boat",
+   "person",
+   "horse"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "boat",
+   "horse",
+   "person"
+  ],
+  "n_words": 45,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "343218": {
+  "mentioned": [
+   "person",
+   "tennis racket",
+   "sports ball",
+   "person",
+   "car"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "person",
+   "sports ball",
+   "tennis racket"
+  ],
+  "n_words": 44,
+  "recall": 1.0,
+  "n_recall": 4,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "478175": {
+  "mentioned": [
+   "toilet",
+   "sink",
+   "toilet",
+   "sink"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "sink",
+   "toilet",
+   "train"
+  ],
+  "n_words": 46,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "462244": {
+  "mentioned": [
+   "train",
+   "train"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "train"
+  ],
+  "n_words": 35,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "345520": {
+  "mentioned": [
+   "person",
+   "elephant",
+   "elephant",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "elephant",
+   "person"
+  ],
+  "n_words": 36,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "150089": {
+  "mentioned": [
+   "truck",
+   "truck"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "truck"
+  ],
+  "n_words": 33,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "60363": {
+  "mentioned": [
+   "clock",
+   "clock"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bird",
+   "clock"
+  ],
+  "n_words": 29,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "482667": {
+  "mentioned": [
+   "elephant",
+   "elephant",
+   "elephant"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cow",
+   "elephant"
+  ],
+  "n_words": 41,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "524533": {
+  "mentioned": [
+   "bus",
+   "bus"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bus",
+   "car",
+   "chair",
+   "person",
+   "potted plant",
+   "traffic light",
+   "truck"
+  ],
+  "n_words": 31,
+  "recall": 0.14285714285714285,
+  "n_recall": 1,
+  "n_gt": 7,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "254167": {
+  "mentioned": [
+   "person",
+   "scissors"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "handbag",
+   "person",
+   "scissors"
+  ],
+  "n_words": 36,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "186950": {
+  "mentioned": [
+   "train",
+   "train"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "train"
+  ],
+  "n_words": 32,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "172922": {
+  "mentioned": [
+   "tie"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "tie"
+  ],
+  "n_words": 29,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "417285": {
+  "mentioned": [
+   "cup"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cake",
+   "cup",
+   "fork",
+   "person",
+   "spoon"
+  ],
+  "n_words": 41,
+  "recall": 0.2,
+  "n_recall": 1,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "443363": {
+  "mentioned": [
+   "person",
+   "surfboard",
+   "dog",
+   "dog",
+   "person",
+   "dog",
+   "surfboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "dog",
+   "person",
+   "surfboard"
+  ],
+  "n_words": 49,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "308996": {
+  "mentioned": [
+   "person",
+   "dining table",
+   "laptop",
+   "dining table",
+   "chair",
+   "chair",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "chair",
+   "clock",
+   "dining table",
+   "laptop",
+   "person",
+   "refrigerator"
+  ],
+  "n_words": 48,
+  "recall": 0.6666666666666666,
+  "n_recall": 4,
+  "n_gt": 6,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "6226": {
+  "mentioned": [
+   "train",
+   "train",
+   "person"
+  ],
+  "hallucinated": [
+   "person"
+  ],
+  "hallucinated_words": [
+   "person"
+  ],
+  "gt": [
+   "traffic light",
+   "train"
+  ],
+  "n_words": 43,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "134594": {
+  "mentioned": [
+   "cow",
+   "cow"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cow"
+  ],
+  "n_words": 32,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "109827": {
+  "mentioned": [
+   "teddy bear",
+   "teddy bear"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "teddy bear"
+  ],
+  "n_words": 29,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "401797": {
+  "mentioned": [
+   "person",
+   "tie",
+   "sports ball"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "sports ball",
+   "tie"
+  ],
+  "n_words": 35,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "45574": {
+  "mentioned": [
+   "sandwich",
+   "sandwich",
+   "sandwich"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "sandwich"
+  ],
+  "n_words": 46,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "267300": {
+  "mentioned": [
+   "dog",
+   "bed",
+   "dog",
+   "carrot",
+   "dog"
+  ],
+  "hallucinated": [
+   "carrot"
+  ],
+  "hallucinated_words": [
+   "carrot"
+  ],
+  "gt": [
+   "bed",
+   "dog",
+   "person",
+   "potted plant"
+  ],
+  "n_words": 47,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 1,
+  "chair_i": 0.2
+ },
+ "77123": {
+  "mentioned": [
+   "airplane",
+   "airplane",
+   "airplane",
+   "truck"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "airplane",
+   "truck"
+  ],
+  "n_words": 44,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "77754": {
+  "mentioned": [
+   "person",
+   "snowboard",
+   "snowboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "snowboard"
+  ],
+  "n_words": 38,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "455966": {
+  "mentioned": [
+   "dining table",
+   "broccoli",
+   "carrot"
+  ],
+  "hallucinated": [
+   "broccoli"
+  ],
+  "hallucinated_words": [
+   "broccoli"
+  ],
+  "gt": [
+   "carrot",
+   "dining table"
+  ],
+  "n_words": 38,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "439854": {
+  "mentioned": [
+   "person",
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "bicycle",
+   "person",
+   "skateboard"
+  ],
+  "n_words": 41,
+  "recall": 0.25,
+  "n_recall": 1,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "199203": {
+  "mentioned": [
+   "microwave",
+   "oven",
+   "microwave"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "microwave",
+   "oven"
+  ],
+  "n_words": 38,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "500559": {
+  "mentioned": [
+   "bench",
+   "bench"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bench"
+  ],
+  "n_words": 41,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "477273": {
+  "mentioned": [
+   "apple",
+   "orange",
+   "broccoli"
+  ],
+  "hallucinated": [
+   "orange"
+  ],
+  "hallucinated_words": [
+   "orange"
+  ],
+  "gt": [
+   "apple",
+   "broccoli"
+  ],
+  "n_words": 42,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "220137": {
+  "mentioned": [
+   "potted plant"
+  ],
+  "hallucinated": [
+   "potted plant"
+  ],
+  "hallucinated_words": [
+   "potted plant"
+  ],
+  "gt": [
+   "vase"
+  ],
+  "n_words": 48,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 1,
+  "chair_s": 1,
+  "chair_i": 1.0
+ },
+ "297323": {
+  "mentioned": [
+   "bus",
+   "bus"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bus",
+   "car",
+   "person",
+   "stop sign",
+   "truck"
+  ],
+  "n_words": 32,
+  "recall": 0.2,
+  "n_recall": 1,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "487607": {
+  "mentioned": [
+   "person",
+   "person",
+   "tennis racket"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "sports ball",
+   "tennis racket"
+  ],
+  "n_words": 41,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "287527": {
+  "mentioned": [
+   "person",
+   "person",
+   "person",
+   "tie"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "tie"
+  ],
+  "n_words": 33,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "463901": {
+  "mentioned": [
+   "person",
+   "umbrella",
+   "bird"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bird",
+   "person",
+   "umbrella"
+  ],
+  "n_words": 44,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "278966": {
+  "mentioned": [
+   "person",
+   "toilet"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "toilet"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "550864": {
+  "mentioned": [
+   "refrigerator",
+   "microwave",
+   "oven",
+   "bottle"
+  ],
+  "hallucinated": [
+   "microwave"
+  ],
+  "hallucinated_words": [
+   "microwave"
+  ],
+  "gt": [
+   "bottle",
+   "bowl",
+   "chair",
+   "dining table",
+   "knife",
+   "oven",
+   "potted plant",
+   "refrigerator",
+   "sink",
+   "vase"
+  ],
+  "n_words": 46,
+  "recall": 0.3,
+  "n_recall": 3,
+  "n_gt": 10,
+  "chair_s": 1,
+  "chair_i": 0.25
+ },
+ "51605": {
+  "mentioned": [
+   "person",
+   "baseball bat",
+   "person",
+   "sports ball"
+  ],
+  "hallucinated": [
+   "sports ball"
+  ],
+  "hallucinated_words": [
+   "ball"
+  ],
+  "gt": [
+   "baseball bat",
+   "baseball glove",
+   "person"
+  ],
+  "n_words": 32,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.25
+ },
+ "199918": {
+  "mentioned": [
+   "bear",
+   "bear",
+   "bear"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bear"
+  ],
+  "n_words": 45,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "513115": {
+  "mentioned": [
+   "boat",
+   "boat",
+   "boat"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "boat"
+  ],
+  "n_words": 43,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "450500": {
+  "mentioned": [
+   "person",
+   "person",
+   "person",
+   "car",
+   "truck",
+   "traffic light"
+  ],
+  "hallucinated": [
+   "truck"
+  ],
+  "hallucinated_words": [
+   "truck"
+  ],
+  "gt": [
+   "car",
+   "handbag",
+   "person",
+   "traffic light"
+  ],
+  "n_words": 52,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 1,
+  "chair_i": 0.16666666666666666
+ },
+ "232905": {
+  "mentioned": [
+   "clock",
+   "clock",
+   "clock",
+   "bird"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bird",
+   "clock"
+  ],
+  "n_words": 42,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "293125": {
+  "mentioned": [
+   "person",
+   "skis",
+   "skis"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "person",
+   "skis"
+  ],
+  "n_words": 46,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "297620": {
+  "mentioned": [
+   "chair",
+   "couch"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bed",
+   "chair",
+   "couch"
+  ],
+  "n_words": 52,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "237254": {
+  "mentioned": [
+   "bus",
+   "bus",
+   "person",
+   "bus",
+   "bus"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bus",
+   "car",
+   "handbag",
+   "person"
+  ],
+  "n_words": 46,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "311744": {
+  "mentioned": [
+   "sandwich"
+  ],
+  "hallucinated": [
+   "sandwich"
+  ],
+  "hallucinated_words": [
+   "sandwich"
+  ],
+  "gt": [
+   "cake",
+   "cup",
+   "dining table",
+   "hot dog"
+  ],
+  "n_words": 44,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 4,
+  "chair_s": 1,
+  "chair_i": 1.0
+ },
+ "35826": {
+  "mentioned": [
+   "train",
+   "train"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "train"
+  ],
+  "n_words": 32,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "133750": {
+  "mentioned": [
+   "zebra",
+   "zebra",
+   "zebra"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "zebra"
+  ],
+  "n_words": 44,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "509185": {
+  "mentioned": [
+   "clock",
+   "clock"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "clock",
+   "person"
+  ],
+  "n_words": 41,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "512869": {
+  "mentioned": [
+   "person",
+   "person",
+   "dining table",
+   "dining table",
+   "cup",
+   "fork",
+   "spoon"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bowl",
+   "broccoli",
+   "carrot",
+   "chair",
+   "cup",
+   "dining table",
+   "fork",
+   "person",
+   "spoon"
+  ],
+  "n_words": 50,
+  "recall": 0.5555555555555556,
+  "n_recall": 5,
+  "n_gt": 9,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "247407": {
+  "mentioned": [
+   "person",
+   "tie",
+   "person",
+   "person",
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "book",
+   "person",
+   "tie"
+  ],
+  "n_words": 43,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "327983": {
+  "mentioned": [
+   "bed",
+   "bed"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bed",
+   "clock",
+   "cup",
+   "vase"
+  ],
+  "n_words": 52,
+  "recall": 0.25,
+  "n_recall": 1,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "327417": {
+  "mentioned": [
+   "person",
+   "snowboard",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "snowboard"
+  ],
+  "n_words": 33,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "143516": {
+  "mentioned": [],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cup",
+   "dining table",
+   "fork",
+   "knife"
+  ],
+  "n_words": 46,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "49371": {
+  "mentioned": [
+   "person",
+   "bicycle",
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bicycle",
+   "cell phone",
+   "handbag",
+   "person"
+  ],
+  "n_words": 43,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "331372": {
+  "mentioned": [
+   "potted plant"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "potted plant",
+   "vase"
+  ],
+  "n_words": 29,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "14271": {
+  "mentioned": [
+   "giraffe",
+   "giraffe"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "giraffe"
+  ],
+  "n_words": 28,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "299946": {
+  "mentioned": [
+   "person",
+   "broccoli",
+   "refrigerator",
+   "microwave"
+  ],
+  "hallucinated": [
+   "broccoli",
+   "microwave"
+  ],
+  "hallucinated_words": [
+   "broccoli",
+   "microwave"
+  ],
+  "gt": [
+   "bowl",
+   "cup",
+   "knife",
+   "person",
+   "refrigerator"
+  ],
+  "n_words": 41,
+  "recall": 0.4,
+  "n_recall": 2,
+  "n_gt": 5,
+  "chair_s": 1,
+  "chair_i": 0.5
+ },
+ "299000": {
+  "mentioned": [
+   "person",
+   "car"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bus",
+   "car",
+   "fire hydrant",
+   "person"
+  ],
+  "n_words": 47,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "185915": {
+  "mentioned": [
+   "boat",
+   "boat"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "boat"
+  ],
+  "n_words": 42,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "177990": {
+  "mentioned": [
+   "person",
+   "tennis racket",
+   "sports ball"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "chair",
+   "person",
+   "sports ball",
+   "tennis racket"
+  ],
+  "n_words": 36,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "269017": {
+  "mentioned": [
+   "toilet",
+   "chair"
+  ],
+  "hallucinated": [
+   "toilet"
+  ],
+  "hallucinated_words": [
+   "toilet"
+  ],
+  "gt": [
+   "bottle",
+   "chair",
+   "dining table",
+   "sink"
+  ],
+  "n_words": 44,
+  "recall": 0.25,
+  "n_recall": 1,
+  "n_gt": 4,
+  "chair_s": 1,
+  "chair_i": 0.5
+ },
+ "431738": {
+  "mentioned": [
+   "person",
+   "tennis racket",
+   "sports ball",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "chair",
+   "person",
+   "sports ball",
+   "tennis racket"
+  ],
+  "n_words": 44,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "504517": {
+  "mentioned": [
+   "cat",
+   "bed",
+   "laptop",
+   "cat",
+   "laptop",
+   "bed"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bed",
+   "cat",
+   "dining table",
+   "laptop",
+   "orange"
+  ],
+  "n_words": 40,
+  "recall": 0.6,
+  "n_recall": 3,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "46329": {
+  "mentioned": [
+   "person",
+   "skateboard",
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "skateboard"
+  ],
+  "n_words": 42,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "151521": {
+  "mentioned": [
+   "person",
+   "dining table",
+   "cup",
+   "bottle",
+   "dining table"
+  ],
+  "hallucinated": [
+   "bottle"
+  ],
+  "hallucinated_words": [
+   "bottle"
+  ],
+  "gt": [
+   "chair",
+   "cup",
+   "dining table",
+   "fork",
+   "knife",
+   "oven",
+   "person",
+   "pizza"
+  ],
+  "n_words": 57,
+  "recall": 0.375,
+  "n_recall": 3,
+  "n_gt": 8,
+  "chair_s": 1,
+  "chair_i": 0.2
+ },
+ "94376": {
+  "mentioned": [
+   "dog",
+   "dog"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bed",
+   "dog"
+  ],
+  "n_words": 31,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "459487": {
+  "mentioned": [
+   "sheep",
+   "sheep"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cow",
+   "sheep"
+  ],
+  "n_words": 42,
+  "recall": 0.5,
+  "n_recall": 1,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "249672": {
+  "mentioned": [
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "person",
+   "snowboard"
+  ],
+  "n_words": 35,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "372983": {
+  "mentioned": [
+   "cat",
+   "bench",
+   "cat"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bench",
+   "cat",
+   "orange"
+  ],
+  "n_words": 28,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "49942": {
+  "mentioned": [
+   "person",
+   "tie",
+   "umbrella"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "tie",
+   "umbrella"
+  ],
+  "n_words": 35,
+  "recall": 1.0,
+  "n_recall": 3,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "391321": {
+  "mentioned": [
+   "stop sign",
+   "traffic light",
+   "stop sign",
+   "traffic light"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "stop sign",
+   "traffic light"
+  ],
+  "n_words": 27,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "189588": {
+  "mentioned": [],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "book",
+   "chair",
+   "keyboard",
+   "laptop",
+   "mouse",
+   "person",
+   "remote",
+   "tv"
+  ],
+  "n_words": 42,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 8,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "127120": {
+  "mentioned": [
+   "person",
+   "teddy bear",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bear",
+   "person",
+   "teddy bear"
+  ],
+  "n_words": 48,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "128148": {
+  "mentioned": [
+   "couch",
+   "chair",
+   "book",
+   "couch"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "book",
+   "chair",
+   "couch",
+   "dining table",
+   "potted plant",
+   "tv"
+  ],
+  "n_words": 46,
+  "recall": 0.5,
+  "n_recall": 3,
+  "n_gt": 6,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "345211": {
+  "mentioned": [
+   "person",
+   "sports ball",
+   "tennis racket"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "chair",
+   "person",
+   "sports ball",
+   "tennis racket"
+  ],
+  "n_words": 37,
+  "recall": 0.75,
+  "n_recall": 3,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "12333": {
+  "mentioned": [
+   "person",
+   "horse",
+   "horse",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "chair",
+   "horse",
+   "person"
+  ],
+  "n_words": 49,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "430160": {
+  "mentioned": [
+   "banana",
+   "sandwich",
+   "banana",
+   "sandwich"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "banana",
+   "sandwich"
+  ],
+  "n_words": 41,
+  "recall": 1.0,
+  "n_recall": 2,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "342318": {
+  "mentioned": [
+   "train",
+   "train",
+   "train",
+   "person",
+   "train"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "backpack",
+   "person",
+   "train"
+  ],
+  "n_words": 39,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "393805": {
+  "mentioned": [
+   "zebra",
+   "zebra"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "zebra"
+  ],
+  "n_words": 40,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "234554": {
+  "mentioned": [
+   "person",
+   "skateboard",
+   "skateboard"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bed",
+   "person",
+   "skateboard"
+  ],
+  "n_words": 39,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "118911": {
+  "mentioned": [
+   "zebra",
+   "zebra",
+   "car"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bird",
+   "car",
+   "person",
+   "zebra"
+  ],
+  "n_words": 46,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "324845": {
+  "mentioned": [
+   "sandwich",
+   "sandwich"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cup",
+   "dining table",
+   "fork",
+   "hot dog",
+   "knife",
+   "sandwich"
+  ],
+  "n_words": 45,
+  "recall": 0.16666666666666666,
+  "n_recall": 1,
+  "n_gt": 6,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "579673": {
+  "mentioned": [
+   "dining table",
+   "dining table",
+   "dining table",
+   "chair",
+   "chair"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "chair",
+   "cup",
+   "dining table",
+   "person",
+   "spoon",
+   "umbrella"
+  ],
+  "n_words": 47,
+  "recall": 0.3333333333333333,
+  "n_recall": 2,
+  "n_gt": 6,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "427870": {
+  "mentioned": [
+   "person",
+   "person",
+   "bicycle"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bicycle",
+   "person",
+   "skateboard"
+  ],
+  "n_words": 37,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "310071": {
+  "mentioned": [
+   "person",
+   "orange",
+   "umbrella"
+  ],
+  "hallucinated": [
+   "orange"
+  ],
+  "hallucinated_words": [
+   "orange"
+  ],
+  "gt": [
+   "bench",
+   "person",
+   "umbrella"
+  ],
+  "n_words": 35,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.3333333333333333
+ },
+ "6579": {
+  "mentioned": [
+   "person",
+   "person",
+   "person",
+   "person",
+   "teddy bear"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bear",
+   "clock",
+   "person",
+   "teddy bear"
+  ],
+  "n_words": 40,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "566264": {
+  "mentioned": [
+   "dog",
+   "dog"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "dog"
+  ],
+  "n_words": 33,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "495419": {
+  "mentioned": [
+   "toothbrush",
+   "toothbrush",
+   "cup"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bottle",
+   "cup",
+   "sink",
+   "toothbrush"
+  ],
+  "n_words": 44,
+  "recall": 0.5,
+  "n_recall": 2,
+  "n_gt": 4,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "392717": {
+  "mentioned": [
+   "teddy bear",
+   "car",
+   "truck",
+   "teddy bear"
+  ],
+  "hallucinated": [
+   "truck"
+  ],
+  "hallucinated_words": [
+   "truck"
+  ],
+  "gt": [
+   "car",
+   "person",
+   "teddy bear"
+  ],
+  "n_words": 40,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.25
+ },
+ "419697": {
+  "mentioned": [
+   "person",
+   "train",
+   "train"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "handbag",
+   "person",
+   "train"
+  ],
+  "n_words": 39,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "191721": {
+  "mentioned": [
+   "person",
+   "tennis racket",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "person",
+   "sports ball",
+   "tennis racket"
+  ],
+  "n_words": 39,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "121384": {
+  "mentioned": [
+   "bird",
+   "bird",
+   "bird"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bird"
+  ],
+  "n_words": 47,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "110765": {
+  "mentioned": [
+   "dining table",
+   "orange",
+   "dining table"
+  ],
+  "hallucinated": [
+   "dining table",
+   "orange",
+   "dining table"
+  ],
+  "hallucinated_words": [
+   "table",
+   "orange",
+   "table"
+  ],
+  "gt": [
+   "person",
+   "scissors"
+  ],
+  "n_words": 33,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 2,
+  "chair_s": 1,
+  "chair_i": 1.0
+ },
+ "483531": {
+  "mentioned": [
+   "bed",
+   "bed",
+   "bed"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bed"
+  ],
+  "n_words": 41,
+  "recall": 1.0,
+  "n_recall": 1,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "388042": {
+  "mentioned": [
+   "person",
+   "microwave",
+   "oven",
+   "microwave",
+   "oven"
+  ],
+  "hallucinated": [
+   "person"
+  ],
+  "hallucinated_words": [
+   "camper"
+  ],
+  "gt": [
+   "microwave",
+   "oven",
+   "truck"
+  ],
+  "n_words": 47,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 1,
+  "chair_i": 0.2
+ },
+ "375914": {
+  "mentioned": [],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bench"
+  ],
+  "n_words": 31,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 1,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "471991": {
+  "mentioned": [],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "bench",
+   "chair"
+  ],
+  "n_words": 43,
+  "recall": 0.0,
+  "n_recall": 0,
+  "n_gt": 2,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "430690": {
+  "mentioned": [
+   "traffic light",
+   "car"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "car",
+   "person",
+   "traffic light"
+  ],
+  "n_words": 37,
+  "recall": 0.6666666666666666,
+  "n_recall": 2,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "209347": {
+  "mentioned": [
+   "train",
+   "person",
+   "person",
+   "cell phone",
+   "person",
+   "train",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "cell phone",
+   "handbag",
+   "person",
+   "tie",
+   "train"
+  ],
+  "n_words": 45,
+  "recall": 0.6,
+  "n_recall": 3,
+  "n_gt": 5,
+  "chair_s": 0,
+  "chair_i": 0.0
+ },
+ "40886": {
+  "mentioned": [
+   "person",
+   "person"
+  ],
+  "hallucinated": [],
+  "hallucinated_words": [],
+  "gt": [
+   "baseball glove",
+   "person",
+   "sports ball"
+  ],
+  "n_words": 44,
+  "recall": 0.3333333333333333,
+  "n_recall": 1,
+  "n_gt": 3,
+  "chair_s": 0,
+  "chair_i": 0.0
+ }
+}

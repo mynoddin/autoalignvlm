@@ -1,0 +1,39 @@
+{
+ "chair": {
+  "CHAIRs": 15.2,
+  "CHAIRi": 6.036585365853658,
+  "Recall": 58.88030888030888,
+  "avg_words": 40.216,
+  "n_captions": 500,
+  "n_object_mentions": 1640,
+  "n_hallucinated_mentions": 99,
+  "avg_tokens": 47.584,
+  "frac_finished": 1.0
+ },
+ "pope": {
+  "random": {
+   "Accuracy": 86.9,
+   "Precision": 96.6301600673968,
+   "Recall": 76.46666666666667,
+   "F1": 85.3740230740603,
+   "Yes_ratio": 39.56666666666667,
+   "n": 3000
+  },
+  "popular": {
+   "Accuracy": 85.96666666666667,
+   "Precision": 94.3303204601479,
+   "Recall": 76.53333333333333,
+   "F1": 84.50496871549502,
+   "Yes_ratio": 40.56666666666667,
+   "n": 3000
+  },
+  "adversarial": {
+   "Accuracy": 83.93333333333334,
+   "Precision": 89.82785602503913,
+   "Recall": 76.53333333333333,
+   "F1": 82.64938804895608,
+   "Yes_ratio": 42.6,
+   "n": 3000
+  }
+ }
+}

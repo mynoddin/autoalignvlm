@@ -1,0 +1,130 @@
+{
+ "chair": {
+  "CHAIRs": 55.2,
+  "CHAIRi": 15.354017501988862,
+  "Recall": 77.67052767052768,
+  "avg_words": 87.668,
+  "n_captions": 500,
+  "n_object_mentions": 3771,
+  "n_hallucinated_mentions": 579,
+  "avg_tokens": 100.822,
+  "frac_finished": 1.0
+ },
+ "pope": {
+  "random": {
+   "Accuracy": 87.43333333333334,
+   "Precision": 96.75270607826812,
+   "Recall": 77.46666666666667,
+   "F1": 86.0422065901518,
+   "Yes_ratio": 40.03333333333333,
+   "n": 3000
+  },
+  "popular": {
+   "Accuracy": 86.26666666666667,
+   "Precision": 94.15584415584416,
+   "Recall": 77.33333333333333,
+   "F1": 84.9194729136164,
+   "Yes_ratio": 41.06666666666667,
+   "n": 3000
+  },
+  "adversarial": {
+   "Accuracy": 84.03333333333333,
+   "Precision": 89.2994611239415,
+   "Recall": 77.33333333333333,
+   "F1": 82.8867452661665,
+   "Yes_ratio": 43.3,
+   "n": 3000
+  }
+ },
+ "mme": {
+  "code_reasoning": {
+   "acc": 50.0,
+   "acc_plus": 15.0,
+   "score": 65.0,
+   "n": 40
+  },
+  "artwork": {
+   "acc": 71.75,
+   "acc_plus": 49.5,
+   "score": 121.25,
+   "n": 400
+  },
+  "celebrity": {
+   "acc": 77.94117647058823,
+   "acc_plus": 58.82352941176471,
+   "score": 136.76470588235293,
+   "n": 340
+  },
+  "numerical_calculation": {
+   "acc": 42.5,
+   "acc_plus": 10.0,
+   "score": 52.5,
+   "n": 40
+  },
+  "text_translation": {
+   "acc": 57.49999999999999,
+   "acc_plus": 15.0,
+   "score": 72.5,
+   "n": 40
+  },
+  "count": {
+   "acc": 81.66666666666667,
+   "acc_plus": 66.66666666666666,
+   "score": 148.33333333333331,
+   "n": 60
+  },
+  "color": {
+   "acc": 83.33333333333334,
+   "acc_plus": 70.0,
+   "score": 153.33333333333334,
+   "n": 60
+  },
+  "commonsense_reasoning": {
+   "acc": 72.85714285714285,
+   "acc_plus": 50.0,
+   "score": 122.85714285714285,
+   "n": 140
+  },
+  "position": {
+   "acc": 73.33333333333333,
+   "acc_plus": 50.0,
+   "score": 123.33333333333333,
+   "n": 60
+  },
+  "OCR": {
+   "acc": 85.0,
+   "acc_plus": 70.0,
+   "score": 155.0,
+   "n": 40
+  },
+  "landmark": {
+   "acc": 87.25,
+   "acc_plus": 75.0,
+   "score": 162.25,
+   "n": 400
+  },
+  "scene": {
+   "acc": 84.25,
+   "acc_plus": 71.0,
+   "score": 155.25,
+   "n": 400
+  },
+  "existence": {
+   "acc": 96.66666666666667,
+   "acc_plus": 93.33333333333333,
+   "score": 190.0,
+   "n": 60
+  },
+  "posters": {
+   "acc": 80.27210884353741,
+   "acc_plus": 61.224489795918366,
+   "score": 141.49659863945578,
+   "n": 294
+  },
+  "_total": {
+   "perception": 1487.0113045218086,
+   "cognition": 312.85714285714283,
+   "hallucination_subset": 615.0
+  }
+ }
+}
