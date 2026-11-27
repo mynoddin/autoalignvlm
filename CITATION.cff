@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "This material accompanies a manuscript under review; see LICENSE for permitted use. If you cite it, please cite it as below."
+title: "Auto Align-VLM: code and experiment record"
+type: software
+version: "3.0"
+date-released: "2026-11-27"
+license-url: "https://github.com/mynoddin/autoalignvlm/blob/main/LICENSE"
+repository-code: "https://github.com/mynoddin/autoalignvlm"
+keywords:
+  - vision-language models
+  - object hallucination
+  - direct preference optimization
+  - LLaVA
+  - Grounding DINO
+authors:
+  - family-names: Mynoddin
+    given-names: Md
+    email: mynoddin@rmstu.ac.bd
+    orcid: "https://orcid.org/0000-0003-4593-0511"
+    affiliation: "Department of Computer Science and Engineering, Rangamati Science and Technology University"
+  - family-names: Akter
+    given-names: Monoara
+    affiliation: "Department of Computer Science and Engineering, Rangamati Science and Technology University"
+  - family-names: Sayed
+    given-names: Noor
+    affiliation: "Department of Computer Science and Engineering, Rangamati Science and Technology University"
+  - family-names: Hossain
+    given-names: "G. M. Sakhawat"
+    affiliation: "Department of Computer Science and Engineering, Rangamati Science and Technology University"

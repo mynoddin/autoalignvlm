@@ -1,0 +1,31 @@
+{
+ "run": "lam4_s42",
+ "seed": 42,
+ "n_pairs": 4887,
+ "trainable_params": 39976960,
+ "all_params": 7103404032,
+ "train_cfg": {
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "lora_on_vision": false,
+  "lr": 1e-05,
+  "beta": 0.3,
+  "epochs": 2,
+  "per_device_bs": 2,
+  "grad_accum": 8,
+  "max_length": 1280,
+  "logging_steps": 5,
+  "save_steps": 100,
+  "warmup_ratio": 0.0
+ },
+ "init_adapters": [],
+ "metrics": {
+  "train_runtime": 5821.8789,
+  "train_samples_per_second": 1.679,
+  "train_steps_per_second": 0.105,
+  "total_flos": 6.00047920760832e+17,
+  "train_loss": 0.5438596937391493
+ },
+ "global_steps": 612
+}
